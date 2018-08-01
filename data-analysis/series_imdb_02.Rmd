@@ -1,0 +1,124 @@
+---
+title: "Séries IMDB - S01E02"
+author: "Dandara Sousa"
+date: "26 de maio de 2017"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE, warning = FALSE, message = FALSE, fig.align="center",fig.width = 10)
+library(ggplot2)
+library(dplyr)
+library(tidyr)
+library(readr)
+
+library(knitr)
+
+theme_set(theme_bw())
+```
+
+
+### O Conjunto de Dados
+
+Para essa análise os dados consistem de um conjunto de séries avaliadas no IMDB. Desse conjunto é possível obter informações acerca do nome da série, o nome do episódio, da temporada do episódio, a url onde a avaliação está disponível, a nota do usuário e quão avaliada foi a série de 1 à 10. As séries do conjunto de dados são:
+
+```{r}
+series <- read.csv("../data/series_from_imdb.csv", encoding = "UTF-8" )
+
+unique(series$series_name)
+
+```
+
+Primeiro, observando o conjunto, surge o interesse em saber se séries mais antigas são mais bem avaliadas que as mais novas.Ou seja, se as séries clássicas são vistas como melhores diante o público. Para isso, toma-se como base que séries mais antigas possuem mais temporadas que as mais atuais e, assim, é possível avaliar a avaliação das séries extremas (as com menos temporadas e as com mais). Primeiro, é necessário encontrar as séries que serão comparadas.
+
+```{r}
+series %>% 
+  group_by(series_name) %>%
+  summarise(numeroTemp = max(season)) %>%
+  ggplot(aes(x = series_name, y = numeroTemp)) + 
+  geom_bar(stat = "identity", fill = "dark blue") +
+  theme(axis.text.x = element_blank()) + 
+  labs(x="Série",y="Número de temporadas") + 
+  scale_y_continuous(breaks=seq(0, 45, 1)) 
+```
+
+A partir do gráfico de barras é difícil visualizar as séries para escolher. Porém, pelo gosto da autora serão escolhidas 13 Reasons Why e Stranger Things com uma temporada cada e The Simpsons com vinte e oito temporadas.
+Agora, um meio para a comparar visualmente as avaliações é através de um boxplot que permite observar a distribuição de notas (que foi facilitada através de pontos no gráfico) e a mediana. Utilizar mediana é melhor que a média nesse caso, uma vez que notas extremas afetariam diretamente a média e isto não ocorre com o cálculo da mediana.
+
+```{r}
+series_extremas = series %>% filter(series_name %in% c("13 Reasons Why","Stranger Things","The Simpsons"))
+series_extremas %>%
+  ggplot(aes(x = series_name,y = UserRating, color = series_name)) + 
+  geom_boxplot() + 
+  labs(title = "Avalição de séries do subconjunto", x= "Nome da Série", y= "Nota do Usuário") + 
+  geom_jitter(width = .1, size = 1, alpha = .2) +  
+  stat_summary(aes(label=round(..y..,2)), fun.y=median, geom="text", size=4, vjust = -0.5, color = "black") +
+  scale_y_continuous(breaks=seq(0, 10, 1)) 
+```
+
+A partir do gráfico é possível visualizar que as séries mais recentes possuem uma avaliação geral maior que as antigas. Mas também abre espaço para o questionamento de que a mediana geral de uma série com apenas uma temporada inclui muito menos parâmetro de que uma série com mais temporadas e isso influenciaria a resposta final. Então, analisando a mediana apenas da primeira temporada de todas as séries do subconjunto, temos:
+```{r}
+series_extremas_season1 = series_extremas %>% filter(season == 1)
+series_extremas_season1 %>%
+  ggplot(aes(x = series_name,y = UserRating, color = series_name)) + 
+  geom_boxplot() + 
+  labs(title = "Avalição de séries do subconjunto", x= "Nome da Série", y= "Nota do Usuário") + 
+  geom_jitter(width = .1, size = 1, alpha = .2) +  
+  stat_summary(aes(label=round(..y..,2)), fun.y=median, geom="text", size=4, vjust = -0.5, color = "black") +
+  scale_y_continuous(breaks=seq(5, 10, .5)) 
+
+```
+
+A partir desse segundo gráfico é possível notar que as mudanças que acontecem são que a mediana de The Simpsons cresceu mas não de forma tão notável e significativa, além de quê há bem menos concentração de pontos abaixo do boxplot de The Simpsons quando considerada apenas a primeira temporada. Ainda assim, nesse conjunto de dados, as medianas das primeiras temporadas das séries se assemelham com a mediana geral e no fim isso reforça que as séries mais novas são melhores avaliadas que as antigas.
+
+Outra curiosidade que vem a surgir é saber se as notas das séries crescem de acordo com as temporadas, indicando para as produtoras que a série está fazendo sucesso e isso justificaria porque algumas séries são mais longas que outras. E daí também pode ser questionado se séries com avaliação decaindo a cada temporada são rapidamente canceladas. Para facilitar o entendimento foram feitos dois gráficos: o primeiro possui as séries que possuem até quatro temporadas e o segundo as de mais de quatro temporadas. Também foi considerado aqui o uso da mediana pelos mesmo motivos já citados nos questionamentos anteriores.
+
+```{r}
+series_por_temporada <- series %>% 
+  group_by(series_name) %>% summarise(n_temporadas = max(season))
+series <- merge(x = series, y = series_por_temporada, by = "series_name", all.x = TRUE)
+
+series_recentes <- series %>% 
+  filter(n_temporadas < 5)
+series_antigas <- series %>% 
+  filter(n_temporadas >= 5)
+nrow(unique(series_recentes["series_name"]))
+nrow(unique(series_antigas["series_name"]))
+```
+
+Pelo alto número de séries, vamos novamente selecionar apenas algumas para prosseguir na rápida análise.
+
+```{r}
+series_recentes = series %>% filter(series_name %in% c("13 Reasons Why","Agents of S.H.I.E.L.D.","Black Mirror","Daredevil","Flash","Gotham","House of Cards","How to Get Away with Murder","Mr Robot", "Narcos", "Orphan Black", "Prison Break","Sense8","Sherlock","Stranger Things","The 100", "The Blacklist","Vikings"))
+series_antigas = series %>% filter(series_name %in% c("Arrow","Breaking Bad","Dexter","Friends","Game of Thrones","Grey's Anatomy","Homeland","How I Met Your Mother","Modern Family","Once Upon a Time","Scandal","Supernatural","The Simpsons","The Walking Dead"))
+```
+
+```{r}
+series_recentes %>%
+  group_by(series_name,season) %>%
+  summarise(mediana = median(UserRating)) %>%
+  ggplot(aes(x = season,y = mediana, color = series_name)) + 
+  geom_point(alpha=.8) + 
+  geom_line() +
+  scale_x_continuous(breaks=seq(0, 11, 1)) +
+  scale_y_continuous(breaks=seq(6, 10, .5)) +
+  theme(legend.position = "bottom") +
+  labs(x = "Temporada",y = "Mediana")
+```
+
+```{r}
+series_antigas %>%
+  group_by(series_name,season) %>%
+  summarise(mediana = median(UserRating)) %>%
+  ggplot(aes(x = season,y = mediana, color = series_name)) + 
+  geom_point(alpha=.8) + 
+  geom_line() +
+  scale_x_continuous(breaks=seq(0, 30, 1)) +
+  scale_y_continuous(breaks=seq(6, 10, .5)) +
+  theme(legend.position = "bottom") +
+  labs(x = "Temporada",y = "Mediana")
+```
+
+Já no primeiro gráfico é possível notar que não há uma relação entre as avaliações e a longevidade de uma séries. Sherlock é um exemplo de série que vem decaindo a cada temporada e, pelo segundo gráfico, Friends também pode ser usado como exemplo. E, mais facilmente visto no segundo gráfico, percebe-se que séries que avaliações caindo não são rapidamente canceladas e temos como exemplo The Simpsons que desde a sexta temporada vem caindo nas avaliações e mesmo assim, na sua vigésima oitava temporada, está sendo produzida.
+
+
