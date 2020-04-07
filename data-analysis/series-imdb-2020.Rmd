@@ -1,0 +1,69 @@
+---
+title: "Séries IMDB - S01E01"
+author: "Dandara Sousa"
+date: "6 de abril de 2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE, warning = FALSE, message = FALSE, fig.align="center",fig.width = 10)
+library(ggplot2)
+library(dplyr)
+library(tidyr)
+library(readr)
+
+library(knitr)
+
+theme_set(theme_bw())
+```
+
+**Aviso prévio: Essa é uma versão 2.0 de uma análise feita por mim em 2017. Os dados do IMDB não estão atualizados e o intuito era muito mais exploratório.**
+
+
+O nosso conjunto de dados consiste em séries e suas respectivas avaliações que estão disponíveis no [IMDB](http://imdb.com). Atualmente há mais de 500 séries com os dados disponíveis, mas selecionarei minhas favoritas para deixar o relatório um pouco mais minha cara. Para cada série usaremos as informações de nome, episódios e votos do usuários do IMDB para cada episódio. Os votos dos usuários do site são a forma de classificar os episódios das séries.
+
+```{r}
+series_filtradas <- read.csv("../data/series_filtradas.csv", encoding = "UTF-8")
+series_filtradas %>% head()
+```
+
+Algo muito importante na hora de analisar dados é entender o contexto ao qual os dados estão inseridos. Por exemplo, saber que Supernatural tem muito mais temporadas que Sherlock Holmes, que Mr Robot tem menos temporadas, que o número de episódios por temporada de Orphan Black é bem menor que de Supernatural... Nessa análise tudo isso será levado em consideração, inclusive para deixar nossa interpretação em aberto.
+
+Agora, vamos pontuar o que queremos saber até o final desse documento.
+
+1. Qual é a série mais bem avaliada?
+2. O número de temporadas parece afetar a nota geral de uma série?
+3. Qual série tem avaliações mais irregulares?
+
+Para responder nossa primeira pergunta consideraremos o critério de avaliação dos usuários e também a informação que a série mais bem avaliada é aquela com a mediana de avaliações dos episódios maior do que as outras séries analisadas. Optamos por usar a mediana porque ela não é afetada por valores extremamente altos ou baixos como a média é, e isso torna mais justa a comparação entre séries que possuem temporadas e números de episódios.
+
+```{r}
+series_filtradas %>%
+  ggplot(aes(x = series_name,y = UserRating)) + 
+  geom_boxplot() + labs(x= "Série", y= "Nota do usuário") +
+  geom_jitter(width = .1, size = 1, alpha = .6, color = "#3a243b") +  
+  stat_summary(aes(label=round(..y..,2)), fun.y=median, geom="text", size=4, vjust = -0.5, hjust = -1.5)
+```
+
+A partir do [boxplot](http://www.escolaedti.com.br/o-que-e-um-box-plot/) é possível observar que Sherlock é a série mais bem avaliada do nosso subconjunto, porém não fica distante das outras séries. A segunda colocada, por exemplo, é Mr Robot e está apenas 0.2 ponto abaixo da mais bem colocada. E a última colocada, Orphan Black está a 0.4 ponto abaixo de Sherlock. 
+
+Aqui, chamamos atenção para a quantidade de episódios de cada série. Cada ponto cinza é um episódio. Supernatural é uma série de 12 temporadas com, em média, 22 episódios por temporada. Enquanto Sherlock é uma série de 4 temporadas com cerca de 3 episódios por temporada. Além disso, o tempo de lançamento entre uma temporada e outra é distinta entre as séries. Os chamados hiatus de Mr Robot e Orphan Black eram menores que os de Sherlock mas maiores que os de Supernatural.
+
+Pensando agora em como o número de temporadas parece afetar a nota geral das séries escolhidas, uma rápida olhada no gráfico acima pode indicar que não há correlação entre os fatos. Ainda assim vamos olhar de uma forma mais detalhada vendo qual a mediana da nota de cada temporada de cada série.
+
+```{r}
+series_filtradas %>%
+  group_by(series_name,season) %>%
+  summarise(season_median = median(UserRating)) %>%
+  ggplot(aes(x = season, y= season_median,color = series_name)) +
+  geom_line(size = 1) +
+  scale_x_continuous(breaks = seq(1,12,1)) + 
+  labs(x= "Temporada", y = "Mediana", color = "Série") +
+  theme(legend.position = "bottom")
+```
+
+Acima vemos que cada série tem um padrão de comportamento específico e sem correlações. O que inclusive condiz com a realidade, há temporadas que são incríveis e outras que preferiríamos esquecer.
+
+Para nossa última pergunta vamos voltar aos gráficos produzidos. Atentando para a distância entre os quartis para cada série é possível observar uma irregularidade maior em Sherlock, que se confirma no gráfico de linhas. A série começa mediana, depois toma um salto e cai bastante. Orphan Black apesar de ter a menor mediana é uma série com notas bem mais regulares que as outras. Supernatural é uma série irregular com seus altos e baixos, o que é entendível considerando a quantidade de temporadas que já foram feitas.
+
+Por fim, vale salientar que essa análise foi feita apenas por diversão. As séries acima são algumas das minhas favoritas e minha opinião não necessariamente condiz com a da maioria dos dados. É uma boa forma de exercitar alguns conceitos de análise de dados e deixar espaço para mais explorações.
