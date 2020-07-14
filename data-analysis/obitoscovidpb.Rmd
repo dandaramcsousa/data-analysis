@@ -1,0 +1,43 @@
+---
+title: "Análise de óbitos por COVID-19 na Paraíba"
+author: "Dandara Sousa"
+date: "14 de julho de 2020"
+output: html_notebook
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE, warning = FALSE, message = FALSE, fig.align="center",fig.width = 10)
+library(ggplot2)
+library(dplyr)
+library(tidyr)
+library(readr)
+
+library(knitr)
+
+theme_set(theme_bw())
+```
+
+```{r}
+obitoscovidpb <- read.csv("../data/obitoscovidpb_20200714_201338.csv", sep = ";",encoding = "UTF-8")
+```
+
+possíveis análises:
+* distribuição por genero
+* distribição por algumas cidades
+* faixa etária
+* tempo entre inicio dos sintomas e o obito
+
+encontrar relações? talvez seja mt alarde esse tipo de info já que nao é tão precisa? 
+
+tipo de teste
+```{r}
+obitoscovidpb %>%
+  group_by(Sexo)%>%
+  summarise(n = n()) %>%
+  ggplot(aes(x = Sexo, y = n)) +
+  geom_bar(stat="identity") +
+  stat_summary(aes(label=round(..y..,2)), fun.y=median, geom="text", size=4, vjust = -0.5, hjust = -1.5) + 
+  labs(x= "Gênero", y= "Número de óbitos")
+```
+
