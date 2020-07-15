@@ -30,7 +30,6 @@ possíveis análises:
 
 encontrar relações? talvez seja mt alarde esse tipo de info já que nao é tão precisa? 
 
-tipo de teste
 ```{r}
 obitoscovidpb %>%
   group_by(Sexo)%>%
@@ -39,5 +38,16 @@ obitoscovidpb %>%
   geom_bar(stat="identity") +
   stat_summary(aes(label=round(..y..,2)), fun.y=median, geom="text", size=4, vjust = -0.5, hjust = -1.5) + 
   labs(x= "Gênero", y= "Número de óbitos")
+```
+
+```{r}
+obitoscovidpb %>%
+  #filter(`Município.de.Residência` == "Campina Grande") %>%
+  group_by(Idade)%>%
+  summarise(n = n()) %>%
+  ggplot(aes(x = Idade, y = n)) +
+  geom_point() + 
+  geom_smooth()+
+  labs(x= "Idade", y= "Número de óbitos")
 ```
 
