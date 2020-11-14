@@ -1,213 +1,214 @@
-album,album_type,track_id,track_number,name,popularity,duration_ms,release_date,artists
-AmarElo,album,1wTuMYmA3AJC7zKg6cuu19,1,"Principia (feat. Fabiana Cozza, Pastor Henrique Vieira & Pastoras do Ros·rio)",53,355866,2019-10-30,"['Emicida', 'Fabiana Cozza', 'Pastor Henrique Vieira', 'Pastoras do Ros·rio']"
-AmarElo,album,7MK6sYlWniVj8D1mrAAIwb,2,A Ordem Natural das Coisas (feat. Mc Tha),52,235866,2019-10-30,"['Emicida', 'Mc Tha']"
-AmarElo,album,78m3BiWZ2dLGzElYwrIfFD,3,Pequenas Alegrias da Vida Adulta (feat. Marcos Valle e Thiago Ventura),55,292013,2019-10-30,"['Emicida', 'Marcos Valle', 'Thiago Ventura']"
-AmarElo,album,4yEBOuDHhrFeGXyXNJ3C4y,4,Quem Tem Um Amigo (Tem Tudo) (feat. Zeca Pagodinho & Tokyo Ska Paradise Orchestra),50,249000,2019-10-30,"['Emicida', 'Zeca Pagodinho', 'Tokyo Ska Paradise Orchestra']"
-AmarElo,album,5mvd9zBoRstEcAJC2VwEOi,5,Paisagem,49,189680,2019-10-30,['Emicida']
-AmarElo,album,3aXbjjFVHC86pSZey62vbS,6,"CananÈia, Iguape e Ilha Comprida",48,335600,2019-10-30,['Emicida']
-AmarElo,album,6s41mmffsLaUXVkk8wzo2W,7,9nha (feat. Drik Barbosa),47,177480,2019-10-30,"['Emicida', 'Drik Barbosa']"
-AmarElo,album,0lllhIvFD2afwVh1nU1WLU,8,Ism·lia (feat. Larissa Luz & Fernanda Montenegro),47,357760,2019-10-30,"['Emicida', 'Larissa Luz', 'Fernanda Montenegro']"
-AmarElo,album,2iCQmixyFnDaOSvs0Fszr7,9,"EminÍncia Parda (feat. Dona Onete, JÈ Santiago & Papillon)",47,244186,2019-10-30,"['Emicida', 'Dona Onete', 'JÈ Santiago', 'Papillon']"
-AmarElo,album,5p3LIyy38s0QQNoSTwbZXX,10,AmarElo (Sample: Sujeito de Sorte - Belchior),57,320800,2019-10-30,"['Emicida', 'Majur', 'Pabllo Vittar']"
-AmarElo,album,6Uwo3QnEz0GJFFIYnQI8ak,11,Libre,42,169706,2019-10-30,"['Emicida', 'Ibeyi']"
-10 Anos de Triunfo (Ao Vivo),album,4dnY5nVBGk2qkjmZWS9rgD,1,Bang - Ao Vivo,41,353613,2018-04-21,['Emicida']
-10 Anos de Triunfo (Ao Vivo),album,5H3g4QdufKxNZcdqrWR1LF,2,Gueto / Os Mlk È Liso (feat. Mc GuimÍ) - Ao Vivo,40,205200,2018-04-21,"['Emicida', 'MC Guime']"
-10 Anos de Triunfo (Ao Vivo),album,53yM8L0FqrQiLQwlSUz6hE,3,I Love Quebrada - Ao Vivo,39,198866,2018-04-21,['Emicida']
-10 Anos de Triunfo (Ao Vivo),album,4joANGi3WrseAKoUFU1YDA,4,A Chapa È Quente (feat. Rael) - Ao Vivo,42,248866,2018-04-21,"['Emicida', 'Rael']"
-10 Anos de Triunfo (Ao Vivo),album,5PfR5Cm2WcxZMCEej8Muo8,5,A Cada Vento (feat. Rael) - Ao Vivo,47,312680,2018-04-21,"['Emicida', 'Rael']"
-10 Anos de Triunfo (Ao Vivo),album,5hNjHU5ZE4m0ykAEYLYsQH,6,O·sis (feat. Rael) - Ao Vivo,44,234840,2018-04-21,"['Emicida', 'Rael']"
-10 Anos de Triunfo (Ao Vivo),album,2fvgJaMdvBFm4VHbUIJRGT,7,Alma GÍmea - Ao Vivo,44,242506,2018-04-21,['Emicida']
-10 Anos de Triunfo (Ao Vivo),album,1jKMNPNEgzOfGuq2Ft2tJU,8,Madagascar - Ao Vivo,42,239106,2018-04-21,['Emicida']
-10 Anos de Triunfo (Ao Vivo),album,3Qo3qPJM8aGCRVTiLvzsuI,9,Baiana (feat. Caetano Veloso) - Ao Vivo,38,253853,2018-04-21,"['Emicida', 'Caetano Veloso']"
-10 Anos de Triunfo (Ao Vivo),album,5RwRKGihLcVEYAVBiFWgaq,10,Haiti (feat. Caetano Veloso) - Ao Vivo,39,257613,2018-04-21,"['Emicida', 'Caetano Veloso']"
-10 Anos de Triunfo (Ao Vivo),album,33w019E0g0aFp2j4i9WR9R,11,M„e - Ao Vivo,42,297693,2018-04-21,['Emicida']
-10 Anos de Triunfo (Ao Vivo),album,6n1kLEtsPlekRVg6UiGXop,12,Hoje Cedo (feat. Pitty) - Ao Vivo,44,342000,2018-04-21,"['Emicida', 'Pitty']"
-10 Anos de Triunfo (Ao Vivo),album,7jCJhnhdNwQcQB70VqbXB9,13,Como Tudo Deve Ser - Ao Vivo,41,175880,2018-04-21,['Emicida']
-10 Anos de Triunfo (Ao Vivo),album,1LkHhH4LPjS6WReIqKeJc0,14,Chapa - Ao Vivo,40,282106,2018-04-21,['Emicida']
-10 Anos de Triunfo (Ao Vivo),album,4QzprorHgMNDb7DwnHSp0K,15,Passarinhos (feat. Vanessa Da Mata) - Ao Vivo,41,222466,2018-04-21,"['Emicida', 'Vanessa Da Mata']"
-10 Anos de Triunfo (Ao Vivo),album,43P9lxj5SPLTgBWAb9eiD4,16,Hino Vira-Lata (feat. Prettos) - Ao Vivo,37,237133,2018-04-21,"['Emicida', 'Prettos']"
-10 Anos de Triunfo (Ao Vivo),album,6JFWIGQuGrtVsYtIT1CPuU,17,Mufete - Ao Vivo,36,302866,2018-04-21,['Emicida']
-10 Anos de Triunfo (Ao Vivo),album,6EGdi8mN7xNXKqjonxloqe,18,Todos os Olhos em NÛiz - Ao Vivo,42,285160,2018-04-21,"['Emicida', 'Karol Conk·']"
-10 Anos de Triunfo (Ao Vivo),album,1YyrCYFzq2cqG6Rfggqqda,19,Ooorra - Ao Vivo,46,284693,2018-04-21,['Emicida']
-10 Anos de Triunfo (Ao Vivo),album,5Gay4YpzG895E2JDqi2L9A,20,Boa EsperanÁa (feat. Jota Ghetto) - Ao Vivo,38,199706,2018-04-21,"['Emicida', 'Jota Ghetto']"
-10 Anos de Triunfo (Ao Vivo),album,3HhYkPLqvHrLdfN7Co6MSf,21,"Zica, Vai L· (feat. FiÛti) - Ao Vivo",38,247133,2018-04-21,"['Emicida', 'FiÛti']"
-10 Anos de Triunfo (Ao Vivo),album,0FzIvs8tg8uoQhl8zz6zgK,22,NÛiz - Ao Vivo,37,139466,2018-04-21,['Emicida']
-10 Anos de Triunfo (Ao Vivo),album,3AKQgmQ25qEEhHMJAsexjN,23,Ubuntu Fristaili - Ao Vivo,36,267400,2018-04-21,['Emicida']
-10 Anos de Triunfo (Ao Vivo),album,6AI7u64to3bm9Iga4t2TmX,24,"Mandume (feat. Drik Barbosa, Raph„o Alaafin, Muzzike, Amiri, Coruja BC1, Rico Dalasam & Rashid) - Ao Vivo",37,647666,2018-04-21,"['Emicida', 'Drik Barbosa', 'Raph„o Alaafin', 'Muzzike', 'Amiri', 'Coruja Bc1', 'Rico Dalasam', 'Rashid']"
-10 Anos de Triunfo (Ao Vivo),album,1gHFcFkvcdgUreyZYxXSKP,25,Rinha - Ao Vivo,36,131920,2018-04-21,['Emicida']
-10 Anos de Triunfo (Ao Vivo),album,2q8HdxqpSVrH4sQK3FYCT0,26,Levanta e Anda (feat. Rael) - Ao Vivo,42,192253,2018-04-21,"['Emicida', 'Rael']"
-10 Anos de Triunfo (Ao Vivo),album,5bNj15MKnbPImzXXYmEqEG,27,Triunfo - Ao Vivo,40,259360,2018-04-21,['Emicida']
-"Sobre CrianÁas, Quadris, Pesadelos e LiÁıes de Casa...",album,3z32Uk7vU6GWjpALDkV3Vv,1,M„e,45,298226,2015-08-07,"['Emicida', 'Dona Jacira', 'Anna TrÈa']"
-"Sobre CrianÁas, Quadris, Pesadelos e LiÁıes de Casa...",album,4jII68ZqfGu22k5wCxbxFu,2,8,37,209453,2015-08-07,['Emicida']
-"Sobre CrianÁas, Quadris, Pesadelos e LiÁıes de Casa...",album,4icFcHyZjwzHhTuEcDvEkC,3,Casa,40,241120,2015-08-07,['Emicida']
-"Sobre CrianÁas, Quadris, Pesadelos e LiÁıes de Casa...",album,3lDFLt1aUxiGhDo168opkA,4,Amoras,35,56932,2015-08-07,['Emicida']
-"Sobre CrianÁas, Quadris, Pesadelos e LiÁıes de Casa...",album,5jMXOj3VZCe9j4Woxx5Px5,5,Mufete,33,238560,2015-08-07,['Emicida']
-"Sobre CrianÁas, Quadris, Pesadelos e LiÁıes de Casa...",album,14SO7JAN6L7Mk1ZUmabJaI,6,Baiana,53,233320,2015-08-07,"['Emicida', 'Caetano Veloso']"
-"Sobre CrianÁas, Quadris, Pesadelos e LiÁıes de Casa...",album,0gGjX0aUg7OaUSAhi1CmDk,7,Passarinhos,59,221626,2015-08-07,"['Emicida', 'Vanessa Da Mata']"
-"Sobre CrianÁas, Quadris, Pesadelos e LiÁıes de Casa...",album,55F7SmmSkCKveb0Hy6d4yV,8,Sodade,29,70626,2015-08-07,"['Emicida', 'Neusa Semedo']"
-"Sobre CrianÁas, Quadris, Pesadelos e LiÁıes de Casa...",album,7wlJeLu1laRNNXwwxLodX0,9,Chapa,36,278986,2015-08-07,"['Emicida', 'Batucaderas do Terreiro dos Org„os']"
-"Sobre CrianÁas, Quadris, Pesadelos e LiÁıes de Casa...",album,2v3FdNAsIe9rh62DOb4ZIz,10,Boa EsperanÁa,41,182880,2015-08-07,"['Emicida', 'J. Ghetto']"
-"Sobre CrianÁas, Quadris, Pesadelos e LiÁıes de Casa...",album,21lnL9CbwOOdA4LIQpYRKo,11,Trabalhadores do Brasil,29,82693,2015-08-07,"['Emicida', 'Marcelino Freire']"
-"Sobre CrianÁas, Quadris, Pesadelos e LiÁıes de Casa...",album,7JEFQNPdF5yUePOuTAG5fs,12,Mandume,43,495600,2015-08-07,"['Emicida', 'Drik Barbosa', 'Amiri', 'Rico Dalasam', 'Muzzike', 'Raph„o Alaafin']"
-"Sobre CrianÁas, Quadris, Pesadelos e LiÁıes de Casa...",album,0FAisOr5R8iaelTo9j6nQ4,13,Madagascar,46,232733,2015-08-07,['Emicida']
-"Sobre CrianÁas, Quadris, Pesadelos e LiÁıes de Casa...",album,70RuiIXC1sSc5NzXDCEEhP,14,Salve Black (Estilo Livre),35,283062,2015-08-07,['Emicida']
-O Glorioso Retorno de Quem Nunca Esteve Aqui,album,3JmHWXE5VeUi0Uhpxbs9v6,1,Milion·rio do Sonho,1,50066,2013-08-21,"['Emicida', 'Elisa Lucinda']"
-O Glorioso Retorno de Quem Nunca Esteve Aqui,album,2YEBWxw7dXdmYFM4VqR3p1,2,Levanta e Anda,4,150320,2013-08-21,"['Emicida', 'Rael']"
-O Glorioso Retorno de Quem Nunca Esteve Aqui,album,7zvTUP7AJlZWyJ1S6rYOwP,3,NÛiz,25,303226,2013-08-21,['Emicida']
-O Glorioso Retorno de Quem Nunca Esteve Aqui,album,4rH2Yzww7Sb3L6NF3mMySu,4,ZÛi„o,2,232546,2013-08-21,['Emicida']
-O Glorioso Retorno de Quem Nunca Esteve Aqui,album,4Qu1lQg9LBnhuI047ODnuU,5,Cris‚ntemo,2,314440,2013-08-21,"['Emicida', 'Dona Jacira']"
-O Glorioso Retorno de Quem Nunca Esteve Aqui,album,2EiJXgUnQ4P1yCOzucaJr4,6,Sol de Giz de Cera,2,138320,2013-08-21,"['Emicida', 'Estela Vergilio', 'Tulipa Ruiz']"
-O Glorioso Retorno de Quem Nunca Esteve Aqui,album,4Hb1MqogMXGusJo6RAD2qy,7,Hoje Cedo,5,194080,2013-08-21,"['Emicida', 'Pitty']"
-O Glorioso Retorno de Quem Nunca Esteve Aqui,album,6sbS5YK2N0Tg4sYQvIci0Z,8,Trepadeira,3,282800,2013-08-21,"['Emicida', 'Wilson Das Neves']"
-O Glorioso Retorno de Quem Nunca Esteve Aqui,album,19eRmnU9m1SWl9c8MBYY5a,9,Bang!,5,290480,2013-08-21,['Emicida']
-O Glorioso Retorno de Quem Nunca Esteve Aqui,album,1BwgNjYeQMHNvKe1BkK0tY,10,Gueto,1,184093,2013-08-21,"['Emicida', 'MC Guime']"
-O Glorioso Retorno de Quem Nunca Esteve Aqui,album,2484tvE4r41MHm85lq7z9H,11,Hino Vira-Lata,1,192413,2013-08-21,"['Emicida', 'Quinteto em Branco e Preto']"
-O Glorioso Retorno de Quem Nunca Esteve Aqui,album,1otDo025Yi7BixVS6BgFf9,12,Alma GÍmea,4,239986,2013-08-21,['Emicida']
-O Glorioso Retorno de Quem Nunca Esteve Aqui,album,55HB8Maxa9dkWs9UDxjPRV,13,Samba do Fim do Mundo,2,219200,2013-08-21,"['Emicida', 'Fabiana Cozza', 'JuÁara MarÁal']"
-O Glorioso Retorno de Quem Nunca Esteve Aqui,album,3G3PPoNXTdirajaiIFh11y,14,Ubuntu Fristaili,2,286826,2013-08-21,['Emicida']
-Rock In Rio (Ao Vivo),album,21qhVrVh2DHXxYZv0CtDqR,1,Oi Compadre - Ao Vivo,32,246320,2013-08-07,"['Martinho Da Vila', 'Cidade Negra', 'Emicida']"
-Rock In Rio (Ao Vivo),album,0zmRdTMzCtNKGncGO7SF6w,2,Pensamento - Ao Vivo,32,141466,2013-08-07,"['Cidade Negra', 'Martinho Da Vila', 'Emicida']"
-Rock In Rio (Ao Vivo),album,799nn8g4CxgRKB30WN2kuZ,3,Onde VocÍ Mora? / Firmamento - Ao Vivo,38,380546,2013-08-07,"['Cidade Negra', 'Martinho Da Vila', 'Emicida']"
-Rock In Rio (Ao Vivo),album,0jelsEmdJqRITQRTkTTLQc,4,Semba Dos Ancestrais/ Muadiakime/ Mama Lala - Ao Vivo,33,366400,2013-08-07,"['Martinho Da Vila', 'Cidade Negra', 'Emicida']"
-Rock In Rio (Ao Vivo),album,1QcodsyoLPPaRKk9CP8KFZ,5,Quero Ver Quarta-Feira - Ao Vivo,19,294520,2013-08-07,"['Emicida', 'Cidade Negra', 'Martinho da Vida']"
-Rock In Rio (Ao Vivo),album,5wW6ZL4fJEScfMVy9foh1v,6,A Estrada - Ao Vivo,28,423253,2013-08-07,"['Cidade Negra', 'Emicida']"
-Rock In Rio (Ao Vivo),album,1OiEtwW1HXZ4jEWpfCQ0OF,7,Disritmia - Ao Vivo,20,165733,2013-08-07,['Martinho Da Vila']
-Rock In Rio (Ao Vivo),album,2Mw58TmIuTkrwjigF7nDN4,8,O Amor da Gente/ Casa de Bamba - Ao Vivo,17,317746,2013-08-07,"['Martinho Da Vila', 'Emicida']"
-Rock In Rio (Ao Vivo),album,0PDXEO9HWZHuqasrIIVFRO,9,A Sombra da Maldade - Ao Vivo,19,251133,2013-08-07,"['Cidade Negra', 'Emicida']"
-Rock In Rio (Ao Vivo),album,6TLIt57cUgzDKKTZEzYdlg,10,Viva (MelÙ Dos Vileiros) - Ao Vivo,16,206520,2013-08-07,"['Emicida', 'Cidade Negra']"
-Rock In Rio (Ao Vivo),album,6EVlrirhIuJd7uMJ0FlbEs,11,O Pequeno BurguÍs/ Canta Canta Minha Gente - Ao Vivo,31,249373,2013-08-07,"['Martinho Da Vila', 'Cidade Negra', 'Emicida']"
-Rock In Rio (Ao Vivo),album,4LBiCyzNWzd8Bawl5hnRsY,12,Madalena do Jucu - Ao Vivo,17,431720,2013-08-07,"['Martinho Da Vila', 'Cidade Negra', 'Emicida']"
-Criolo E Emicida Ao Vivo (Live),album,6F4zAdEznwkmn8MHJtcjtT,1,Zica Vai L· - Live,33,238346,2013-01-01,"['Criolo', 'Emicida']"
-Criolo E Emicida Ao Vivo (Live),album,5UmdgDfLHZO3ceGp6qp7yy,2,Dedo Na Ferida - Live,33,226160,2013-01-01,"['Emicida', 'Criolo']"
-Criolo E Emicida Ao Vivo (Live),album,09sMZakpoYDwZIdqgg9YKS,3,Rua Augusta - Live,36,177560,2013-01-01,"['Emicida', 'Criolo']"
-Criolo E Emicida Ao Vivo (Live),album,5K0z3idLxEFY0tv82NeMPe,4,MariÙ - Live,32,267480,2013-01-01,['Criolo']
-Criolo E Emicida Ao Vivo (Live),album,7bLMLwx6gJrCXoppD2YqOu,5,Subirusdoistiozin - Live,34,211280,2013-01-01,"['Criolo', 'Emicida']"
-Criolo E Emicida Ao Vivo (Live),album,2SPPB8Wi85U3cn6ptXLsR4,6,DemorÙ - Live,32,213773,2013-01-01,"['Criolo', 'Emicida']"
-Criolo E Emicida Ao Vivo (Live),album,0s76fxVvT3GOz0sEU64v4j,7,Viva (MelÙ Dos Vileiros) - Live,31,213960,2013-01-01,"['Criolo', 'Emicida']"
-Criolo E Emicida Ao Vivo (Live),album,4dr8LN0s4WhnLLTzfsZkj5,8,SÛ Mais Uma Noite - Live,32,188666,2013-01-01,"['Criolo', 'Emicida', 'Evandro FiÛti']"
-Criolo E Emicida Ao Vivo (Live),album,1Yxukx85EzhKgZpzbNywQv,9,N„o Existe Amor Em SP - Live,34,392480,2013-01-01,"['Criolo', 'Emicida']"
-Criolo E Emicida Ao Vivo (Live),album,6KzAGApzyPBttDCH9rKUNv,10,Linha De Frente - Live,34,240373,2013-01-01,"['Criolo', 'Emicida', 'Rodrigo Campos']"
-Criolo E Emicida Ao Vivo (Live),album,2e1FJPgVRQZFT53QKUR7BD,11,A Cada Vento - Live,35,243373,2013-01-01,"['Criolo', 'Emicida']"
-Criolo E Emicida Ao Vivo (Live),album,1FsemVMaaJRX9YKHBT5kAs,12,Outras Palavras - Live,31,294813,2013-01-01,"['Emicida', 'Criolo']"
-Criolo E Emicida Ao Vivo (Live),album,1b0rnT35mqbls6Mh1EwVwE,13,Lion Man - Live,31,247680,2013-01-01,"['Criolo', 'Emicida']"
-Criolo E Emicida Ao Vivo (Live),album,0UZ3juSCFsN6lINBadUZNZ,14,Grajauex - Live,32,191453,2013-01-01,"['Criolo', 'Emicida']"
-Criolo E Emicida Ao Vivo (Live),album,19Oj8jiVAn3qRr0DhlLU1j,15,Triunfo - Live,36,273426,2013-01-01,"['Criolo', 'Emicida']"
-Criolo E Emicida Ao Vivo (Live),album,0ITzKSRykU81569IrYUhVC,16,"CapÌtulo 4, VersÌculo 3 - Live",34,127053,2013-01-01,"['Criolo', 'Emicida', 'Mano Brown']"
-Criolo E Emicida Ao Vivo (Live),album,3KYbhVPCxYHIeZg8Zy07ay,17,Vida Loka I - Live,39,271840,2013-01-01,"['Criolo', 'Emicida', 'Mano Brown']"
-Criolo E Emicida Ao Vivo (Live),album,3xfUu8alkwuMg8UBht9TtW,18,Bogot· - Live,31,369773,2013-01-01,"['Criolo', 'Emicida']"
-Criolo E Emicida Ao Vivo (Live),album,6F4zAdEznwkmn8MHJtcjtT,1,Zica Vai L· - Live,33,238346,2013-01-01,"['Criolo', 'Emicida']"
-Criolo E Emicida Ao Vivo (Live),album,5UmdgDfLHZO3ceGp6qp7yy,2,Dedo Na Ferida - Live,33,226160,2013-01-01,"['Emicida', 'Criolo']"
-Criolo E Emicida Ao Vivo (Live),album,09sMZakpoYDwZIdqgg9YKS,3,Rua Augusta - Live,36,177560,2013-01-01,"['Emicida', 'Criolo']"
-Criolo E Emicida Ao Vivo (Live),album,5K0z3idLxEFY0tv82NeMPe,4,MariÙ - Live,32,267480,2013-01-01,['Criolo']
-Criolo E Emicida Ao Vivo (Live),album,7bLMLwx6gJrCXoppD2YqOu,5,Subirusdoistiozin - Live,34,211280,2013-01-01,"['Criolo', 'Emicida']"
-Criolo E Emicida Ao Vivo (Live),album,2SPPB8Wi85U3cn6ptXLsR4,6,DemorÙ - Live,32,213773,2013-01-01,"['Criolo', 'Emicida']"
-Criolo E Emicida Ao Vivo (Live),album,0s76fxVvT3GOz0sEU64v4j,7,Viva (MelÙ Dos Vileiros) - Live,31,213960,2013-01-01,"['Criolo', 'Emicida']"
-Criolo E Emicida Ao Vivo (Live),album,4dr8LN0s4WhnLLTzfsZkj5,8,SÛ Mais Uma Noite - Live,32,188666,2013-01-01,"['Criolo', 'Emicida', 'Evandro FiÛti']"
-Criolo E Emicida Ao Vivo (Live),album,1Yxukx85EzhKgZpzbNywQv,9,N„o Existe Amor Em SP - Live,34,392480,2013-01-01,"['Criolo', 'Emicida']"
-Criolo E Emicida Ao Vivo (Live),album,6KzAGApzyPBttDCH9rKUNv,10,Linha De Frente - Live,34,240373,2013-01-01,"['Criolo', 'Emicida', 'Rodrigo Campos']"
-Criolo E Emicida Ao Vivo (Live),album,2e1FJPgVRQZFT53QKUR7BD,11,A Cada Vento - Live,35,243373,2013-01-01,"['Criolo', 'Emicida']"
-Criolo E Emicida Ao Vivo (Live),album,1FsemVMaaJRX9YKHBT5kAs,12,Outras Palavras - Live,31,294813,2013-01-01,"['Emicida', 'Criolo']"
-Criolo E Emicida Ao Vivo (Live),album,1b0rnT35mqbls6Mh1EwVwE,13,Lion Man - Live,31,247680,2013-01-01,"['Criolo', 'Emicida']"
-Criolo E Emicida Ao Vivo (Live),album,0UZ3juSCFsN6lINBadUZNZ,14,Grajauex - Live,32,191453,2013-01-01,"['Criolo', 'Emicida']"
-Criolo E Emicida Ao Vivo (Live),album,19Oj8jiVAn3qRr0DhlLU1j,15,Triunfo - Live,36,273426,2013-01-01,"['Criolo', 'Emicida']"
-Criolo E Emicida Ao Vivo (Live),album,0ITzKSRykU81569IrYUhVC,16,"CapÌtulo 4, VersÌculo 3 - Live",34,127053,2013-01-01,"['Criolo', 'Emicida', 'Mano Brown']"
-Criolo E Emicida Ao Vivo (Live),album,3KYbhVPCxYHIeZg8Zy07ay,17,Vida Loka I - Live,39,271840,2013-01-01,"['Criolo', 'Emicida', 'Mano Brown']"
-Criolo E Emicida Ao Vivo (Live),album,3xfUu8alkwuMg8UBht9TtW,18,Bogot· - Live,31,369773,2013-01-01,"['Criolo', 'Emicida']"
-Doozicabraba e a RevoluÁ„o Silenciosa,album,0pmExfJ9NhCdFgAvdhjNRl,1,Intro (Shiiiiu!),19,136493,2011-12-20,['Emicida']
-Doozicabraba e a RevoluÁ„o Silenciosa,album,3YEu2zvGsP1j30P7MdM8Uk,2,LicenÁa Aqui,28,226440,2011-12-20,"['Emicida', 'Rael', 'FiÛti']"
-Doozicabraba e a RevoluÁ„o Silenciosa,album,0jy5rowvJT5t6GQcyU7Md1,3,CacariacÙ,25,156400,2011-12-20,"['Emicida', 'Fabiana Cozza']"
-Doozicabraba e a RevoluÁ„o Silenciosa,album,3njVe1xxVf8LLzIbHYgUbJ,4,Viva! (Melo dos Vileiro),34,195613,2011-12-20,"['Emicida', 'Rael']"
-Doozicabraba e a RevoluÁ„o Silenciosa,album,3tJPVeNIvz1AWtQZXYZagx,5,Num … SÛ Ver,38,258666,2011-12-20,"['Emicida', 'Rael']"
-Doozicabraba e a RevoluÁ„o Silenciosa,album,0Zli2GQT2t2Cdn5Y5FxMN2,6,"Zica, Vai L·...",34,242026,2011-12-20,"['Emicida', 'FiÛti']"
-Doozicabraba e a RevoluÁ„o Silenciosa,album,4d23omGuGadPOnTk8Hay2B,7,Pequenas Empresas,24,240013,2011-12-20,"['Emicida', 'Don Pixote', 'MV Bill']"
-Doozicabraba e a RevoluÁ„o Silenciosa,album,7peVT3FS4rLm0LAFmu6sig,8,1989,23,176146,2011-12-20,['Emicida']
-Doozicabraba e a RevoluÁ„o Silenciosa,album,3k5AG1YfQBJxOMEOYdXa6g,9,CanÁ„o para Meus Amigos Mortos,22,189733,2011-12-20,"['Emicida', 'Srta. Paola']"
-Doozicabraba e a RevoluÁ„o Silenciosa,album,1qhAtTklCGQEgnU2ivchW4,10,Sorrisos e L·grimas,34,174040,2011-12-20,"['Emicida', 'Rael']"
-Emicidio,album,3dHGvbOKarhoCCnO0agLOU,1,E Agora?,28,200066,2010-09-15,"['Emicida', 'Kaion']"
-Emicidio,album,6Lbp3RoCLwdETIRL4LCwDA,2,CÍ L· Faz IdÈia?,37,138466,2010-09-15,['Emicida']
-Emicidio,album,11EwENgj6ssityd6UW6ZN3,3,Rinha (J· Ouviu Falar?),29,127000,2010-09-15,['Emicida']
-Emicidio,album,1VwvVtK7KGK8f9tC65FOIh,4,Isso N„o Pode Se Perder,28,230413,2010-09-15,"['Emicida', 'XÍnia FranÁa']"
-Emicidio,album,4voIFUvBEUtBMVBfxyBWJN,5,Santo Amaro da PurificaÁ„o,27,165146,2010-09-15,"['Emicida', 'Curumim']"
-Emicidio,album,4g5TnkdXNC2blq6pBS22Ig,6,Ent„o Toma,34,166586,2010-09-15,['Emicida']
-Emicidio,album,7ud6onCRZu5rUb0MUZoFhX,7,Emicidio,29,204506,2010-09-15,['Emicida']
-Emicidio,album,66nm77ff6ft4sZ7bG5RtDc,8,Santa Cruz,26,223026,2010-09-15,['Emicida']
-Emicidio,album,0TAjOgOFn8acTTjswI27WI,9,Velhos Amigos,29,223186,2010-09-15,['Emicida']
-Emicidio,album,4vHOJK3A4vxlMjVEBdL8Xs,10,Rua Augusta,40,153053,2010-09-15,['Emicida']
-Emicidio,album,7hOPOvcVUjUtFYbHWuoZoh,11,I Love Quebrada,31,216600,2010-09-15,['Emicida']
-Emicidio,album,5yqbISO0lUFwY3wdrLgiR0,12,Eu Gosto Dela,50,197746,2010-09-15,"['Emicida', 'Cohen']"
-Emicidio,album,67pNalHivsFuW2Kcd2vS7A,13,SÛ Mais uma Noite,30,189520,2010-09-15,"['Emicida', 'FiÛti']"
-Emicidio,album,6WEnwoDXLxbPKqSzNGpfEI,14,De Onde CÍ Vem?!,26,262333,2010-09-15,"['Emicida', 'Kamau']"
-Emicidio,album,1oO9SDF8DP30r0opnyesYW,15,Um Final de Semana,25,172733,2010-09-15,"['Emicida', 'FiÛti']"
-Emicidio,album,6c6whZDeo8lbZrXahHjkVO,16,Novo Nego VÈio,23,161600,2010-09-15,['Emicida']
-Emicidio,album,2LAhOdcfPJUgWqwm6zmLG6,17,Avua Besouro,25,229613,2010-09-15,['Emicida']
-Emicidio,album,25XUxLporfgzl2rf2mtgmj,18,Beira de Piscina,42,228786,2010-09-15,"['Emicida', 'Rael', 'XÍnia FranÁa']"
-Pra Quem J· Mordeu um Cachorro por Comida AtÈ Que Eu Cheguei Longe,album,2QlM7fOgPNyVKH7YA6UYJV,1,Intro (… Necess·rio Voltar ao ComeÁo),29,337773,2009-05-01,['Emicida']
-Pra Quem J· Mordeu um Cachorro por Comida AtÈ Que Eu Cheguei Longe,album,7p7gRmIidSlIYrGNaaLYDK,2,E.M.I.C.I.D.A (Adoooro),31,204840,2009-05-01,['Emicida']
-Pra Quem J· Mordeu um Cachorro por Comida AtÈ Que Eu Cheguei Longe,album,1dlwq2SjJVpp1KRlzzeXXg,3,Sozim,32,194240,2009-05-01,['Emicida']
-Pra Quem J· Mordeu um Cachorro por Comida AtÈ Que Eu Cheguei Longe,album,2z39qAqEgZUC7vJUnatv5Y,4,Rotina,30,170586,2009-05-01,['Emicida']
-Pra Quem J· Mordeu um Cachorro por Comida AtÈ Que Eu Cheguei Longe,album,1c8u8eAFIBHzox24Q9MMRC,5,Pra Mim (Isso … Viver),29,151173,2009-05-01,['Emicida']
-Pra Quem J· Mordeu um Cachorro por Comida AtÈ Que Eu Cheguei Longe,album,0aK5pOk6Xo2hB2Mto0vSBa,6,Ainda Ontem,31,217346,2009-05-01,['Emicida']
-Pra Quem J· Mordeu um Cachorro por Comida AtÈ Que Eu Cheguei Longe,album,3KbDMWpZCNscdAq7ea2iNW,7,Pra N„o Ter Tempo Ruim,29,197746,2009-05-01,['Emicida']
-Pra Quem J· Mordeu um Cachorro por Comida AtÈ Que Eu Cheguei Longe,album,0zUF40Gv49uGEhQnf5vBRu,8,SÛ Isso,33,231533,2009-05-01,['Emicida']
-Pra Quem J· Mordeu um Cachorro por Comida AtÈ Que Eu Cheguei Longe,album,6s7zBFmqbgOqixjB8WTHoE,9,Vou Busca Minha FulÙ,28,83800,2009-05-01,['Emicida']
-Pra Quem J· Mordeu um Cachorro por Comida AtÈ Que Eu Cheguei Longe,album,7invwIucvRT7MQx2KlvPUg,10,Ela Diz,35,209973,2009-05-01,['Emicida']
-Pra Quem J· Mordeu um Cachorro por Comida AtÈ Que Eu Cheguei Longe,album,60U9NrQvXR3qD3pywGznBn,11,"Por Deus, por Favor",27,181653,2009-05-01,['Emicida']
-Pra Quem J· Mordeu um Cachorro por Comida AtÈ Que Eu Cheguei Longe,album,1Mu24wXS9kB5bxTHeV0OhG,12,Preciso (MelÙ do Mundiko),27,214920,2009-05-01,['Emicida']
-Pra Quem J· Mordeu um Cachorro por Comida AtÈ Que Eu Cheguei Longe,album,5EqGjbo9XYrgIV7Kn0Lx8L,13,A Cada Vento,32,207546,2009-05-01,['Emicida']
-Pra Quem J· Mordeu um Cachorro por Comida AtÈ Que Eu Cheguei Longe,album,6uottiJzSnnRsxwoavPg6O,14,Sei L·,34,226066,2009-05-01,['Emicida']
-Pra Quem J· Mordeu um Cachorro por Comida AtÈ Que Eu Cheguei Longe,album,7i9MpNHuZWqpCSbg6uHBTm,15,Cidad„o,28,85920,2009-05-01,['Emicida']
-Pra Quem J· Mordeu um Cachorro por Comida AtÈ Que Eu Cheguei Longe,album,3PNPGfkDqzjE8vykLzwJDk,16,Soldado Sem Bandeira,28,209706,2009-05-01,['Emicida']
-Pra Quem J· Mordeu um Cachorro por Comida AtÈ Que Eu Cheguei Longe,album,047meJmEnLUrFVnz7DTuDx,17,Vai Ser Rimando,28,203306,2009-05-01,['Emicida']
-Pra Quem J· Mordeu um Cachorro por Comida AtÈ Que Eu Cheguei Longe,album,12Kj6lgdFeVIcv1CRMc7Nv,18,"Um, Dois, TrÍs, Quatro",24,40266,2009-05-01,['Emicida']
-Pra Quem J· Mordeu um Cachorro por Comida AtÈ Que Eu Cheguei Longe,album,2U9j25wlLoCCekKxulgpty,19,Fica Mais um Pouco Amor,29,146906,2009-05-01,['Emicida']
-Pra Quem J· Mordeu um Cachorro por Comida AtÈ Que Eu Cheguei Longe,album,1JGmmlyyoClHQsGsQQHtsW,20,Outras Palavras,29,221266,2009-05-01,['Emicida']
-Pra Quem J· Mordeu um Cachorro por Comida AtÈ Que Eu Cheguei Longe,album,4yN4ZPyoC6xAGMV5kL1zQ6,21,Hey Rap!,27,127453,2009-05-01,['Emicida']
-Pra Quem J· Mordeu um Cachorro por Comida AtÈ Que Eu Cheguei Longe,album,669EOlOmIu0bLlJ9EKEFfO,22,Essa … Pra VocÍ Primo,27,227826,2009-05-01,['Emicida']
-Pra Quem J· Mordeu um Cachorro por Comida AtÈ Que Eu Cheguei Longe,album,3XELYgcY0b9mGsJE28r4Fh,23,Triunfo (A Rua … NÛiz),47,209373,2009-05-01,['Emicida']
-Pra Quem J· Mordeu um Cachorro por Comida AtÈ Que Eu Cheguei Longe,album,2tcNin6noNygyGiLocD07c,24,Eu TÙ Bem,30,198493,2009-05-01,['Emicida']
-Pra Quem J· Mordeu um Cachorro por Comida AtÈ Que Eu Cheguei Longe,album,1ZN5EnxScmBM9stqKkXxPM,25,Ooorra,32,239653,2009-05-01,['Emicida']
-"Trevo, Figuinha e Suor na Camisa",single,5XlSsxpTi0usJnQSUwBORk,1,"Trevo, Figuinha e Suor na Camisa",55,170453,2020-09-25,"['Emicida', 'Ivete Sangalo']"
-Sementes,single,3u5gwRpfb4BCjqvmi7SuT8,1,Sementes,44,236906,2020-06-09,"['Emicida', 'Drik Barbosa']"
-Quem Tem Um Amigo (Tem Tudo),single,3t7dahQw060tKGj9PsXvH6,1,Quem Tem Um Amigo (Tem Tudo) (feat. Zeca Pagodinho & Tokyo Ska Paradise Orchestra),34,249000,2020-05-07,"['Emicida', 'Zeca Pagodinho', 'Tokyo Ska Paradise Orchestra']"
-Quem Tem Um Amigo (Tem Tudo),single,0gTfC9HQGy3sjdZEO2A5EE,2,"Who Has a Friend, Has Everything (feat. Tokyo Ska Paradise Orchestra & Denise D'Paula) - Bonus Track",36,221693,2020-05-07,"['Emicida', 'Tokyo Ska Paradise Orchestra', ""Denise D'Paula""]"
-Quem Tem Um Amigo (Tem Tudo),single,08WrWXRoXim0i1RkSVlpJ3,3,"Quem Tem Um Amigo (Tem Tudo) (Remix) (feat. Zeca Pagodinho, Tokyo Ska Paradise Orchestra & Rashid)",48,246533,2020-05-07,"['Emicida', 'Zeca Pagodinho', 'Tokyo Ska Paradise Orchestra', 'Rashid']"
-Passarinhos (Remix),single,0gg3CdFwZ6pw2YAqoIq5lN,1,Passarinhos (Remix),50,275706,2020-03-26,"['Emicida', 'Moral Distraida', 'Marcio Arantes']"
-Libre,single,3DfxT3t8QHnPysZ6yxFKI7,1,Libre,36,169706,2019-09-19,"['Emicida', 'Ibeyi']"
-Hacia El Amor (Ac˙stico),single,1a8JXGNz4a9gmiAdEKUpks,1,Hacia El Amor - Ac˙stico,41,220933,2019-08-27,"['Emicida', 'Ibeyi']"
-AmarElo (Sample: Sujeito de Sorte - Belchior),single,1BeAxDuc9FbQNWvXWlO66W,1,AmarElo (Sample: Sujeito de Sorte - Belchior),54,321493,2019-06-25,"['Emicida', 'Majur', 'Pabllo Vittar']"
-Final dos Tempos,single,1LHJFQvjlsbNMdaUfATEDi,1,Final dos Tempos,33,176973,2019-05-29,['Emicida']
-Mil Coisas,single,0c68eyAdaqYMdyVBjygaOK,1,Mil Coisas,53,202800,2019-05-27,"['Emicida', 'Drik Barbosa']"
-"EminÍncia Parda (feat. Dona Onete, JÈ Santiago & Papillon)",single,746qyPtzUs4gGEKkuwwSlk,1,"EminÍncia Parda (feat. Dona Onete, JÈ Santiago & Papillon)",42,244946,2019-05-09,"['Emicida', 'Dona Onete', 'JÈ Santiago', 'Papillon']"
-Vital,single,1fxe4QTVcP32FxjTPDoiZl,1,Vital,37,191560,2019-04-16,['Emicida']
-Rap do Motoboy,single,5022KgQuD9TrRgafcwsYp9,1,Rap do Motoboy,36,216906,2018-10-16,"['Emicida', 'FiÛti']"
-Levanta e Anda,single,5fKqHamS4h3bZk6lwvoSxD,1,Levanta e Anda,43,173812,2018-10-05,"['Emicida', 'Barbatuques']"
-In·cio da Catingueira,single,0kvRmw3KwsNpkqu0Idfxrc,1,In·cio da Catingueira,39,235413,2018-09-18,['Emicida']
-Hacia El Amor,single,4SU3ZAVGAhdGtSXhbMGfd8,1,Hacia El Amor,33,217346,2018-06-08,"['Emicida', 'Ibeyi']"
-Triunfo (Ao Vivo),single,27sRlAw1fQVVWV08tSlxUn,1,Triunfo - Ao Vivo,17,259279,2018-04-06,['Emicida']
-Hoje Cedo (feat. Pitty) [Ao Vivo],single,6hjWAmXyRzt27yO4ItBgf6,1,Hoje Cedo (feat. Pitty) - Ao Vivo,28,342000,2018-03-23,"['Emicida', 'Pitty']"
-Como Tudo Deve Ser (Ao Vivo),single,3SjfnU03zLrZbrTgSKfiSt,1,Como Tudo Deve Ser - Ao Vivo,20,177290,2018-03-16,['Emicida']
-Levanta e Anda (feat. Rael) [Ao Vivo],single,0BjPi6q4lvoo6MxHlMyzYU,1,Levanta e Anda (feat. Rael) - Ao Vivo,15,186146,2018-02-23,"['Emicida', 'Rael']"
-Pantera Negra,single,3oA8ovg8QzMjPTwG7kezA3,1,Pantera Negra,47,199613,2018-02-02,['Emicida']
-O·sis,single,10pq1eFjs95Kp7aJbUp6FO,1,O·sis,39,229800,2017-09-12,"['Emicida', 'Miguel']"
-A Chapa È Quente (LÌngua Franca),single,1uVOvs9a0rDTll1fuDhO7h,1,A Chapa È Quente - LÌngua Franca,28,244453,2017-04-28,"['Emicida', 'Rael']"
-"Yasuke (Bendito, Louvado Seja)",single,7lvGzIPx6hojokn0PlKYMr,1,"Yasuke (Bendito, Louvado Seja)",27,351210,2017-02-03,['Emicida']
-Rdio Sessions,single,6D7xE2MBqWKm6wBBVYceEa,1,Levanta e Anda (Rdio Sessions) - Ao Vivo,18,185786,2016-01-01,['Emicida']
-Rdio Sessions,single,2Oc2oLhrsqADmYYFos8tPt,2,Passarinhos (Rdio Sessions) (feat. XÍnia FranÁa) - Ao Vivo,50,229413,2016-01-01,"['Emicida', 'XÍnia FranÁa']"
-Rdio Sessions,single,1hMrb30h4rupQDVowEUIuu,3,Mufete (Rdio Sessions) - Ao Vivo,12,232280,2016-01-01,['Emicida']
-Rdio Sessions,single,6yu7JweNS9iukYUILzzrY0,4,Triunfo (Rdio Sessions) - Ao Vivo,32,308906,2016-01-01,['Emicida']
-Rdio Sessions,single,79R3QY7PcTUpeRZQRyF567,5,Boa EsperanÁa (Rdio Sessions) (feat. Jota Ghetto) - Ao Vivo,11,186573,2016-01-01,"['Emicida', 'Jota Ghetto']"
-Bonjour,single,1d5Hpa1FxneKB3DIgH6OZc,1,Bonjour,32,212362,2015-02-23,"['Emicida', 'FÈfÈ']"
-Minha Vida (Remix),single,5NCCdivQoIpi1QZiDPmG57,1,Minha Vida - Remix,25,371905,2014-11-07,"['Emicida', 'Lakers Ep·']"
-Cris‚ntemo,single,0aLHKvkW5uSHYkZtJL6k4C,1,Cris‚ntemo,10,314440,2014-03-03,"['Emicida', 'Dona Jacira']"
-"Papel, Caneta e CoraÁ„o",single,4k9Ik0Ttw0FVQDsSNNyItA,1,"Papel, Caneta e CoraÁ„o",32,171306,2013-12-29,"['Emicida', 'Coyote Beatz']"
-"Aos Olhos de uma CrianÁa (Tema do Filme ""O Menino e o Mundo"")",single,0imiKTAc5BffkEJ3pDkBk0,1,"Aos Olhos de uma CrianÁa - Tema do Filme ""O Menino e o Mundo""",31,208966,2013-11-19,"['Emicida', 'Drik Barbosa']"
-Hoje Cedo,single,2g56r0T9P7IOSI1IFNNWKD,1,Hoje Cedo,18,194080,2013-07-30,"['Emicida', 'Pitty']"
-Avua Besouro,single,5AEPgvi0qSS91PQtiV2uzZ,1,Avua Besouro,7,229613,2011-12-22,['Emicida']
-Quero Ver Quarta-Feira,single,0NIFvEPGkZodCyN48la4Hd,1,Quero Ver Quarta-Feira,15,266053,2011-12-22,"['Emicida', ""Mart'n·lia""]"
-Sua Mina Ouve Meu Rep Tamem,single,2vi1oW1hZexBEhpTxY7oye,1,Intro,14,49000,2010-01-26,['Emicida']
-Sua Mina Ouve Meu Rep Tamem,single,6ZEJCYvM9fA4J8caTISj3z,2,Quer Saber?,36,215720,2010-01-26,"['Emicida', 'FiÛti']"
-Sua Mina Ouve Meu Rep Tamem,single,6f7Am9gKBzcYq4N1VT2mNs,3,ChegaÌ,24,171960,2010-01-26,"['Emicida', 'FiÛti']"
-Sua Mina Ouve Meu Rep Tamem,single,1iuUsfIr9AlrG5UFk6DLt2,4,Vacil„o,27,180546,2010-01-26,['Emicida']
-Sua Mina Ouve Meu Rep Tamem,single,3HwQeHdIeBqiMltNdz6Obm,5,Vol˙pia,27,172666,2010-01-26,"['Emicida', 'XÍnia FranÁa']"
-Sua Mina Ouve Meu Rep Tamem,single,6VRxAU85cQfxPjVvJQwiGl,6,Num Vejo a Hora,31,196346,2010-01-26,['Emicida']
-Triunfo,single,6g6H6yu4ppSf6q6kSu4Kj8,1,Triunfo,15,209373,2009,['Emicida']
+,album,album_type,track_id,track_number,name,popularity,duration_ms,release_date,artists
+0,AmarElo,album,1wTuMYmA3AJC7zKg6cuu19,1,"Principia (feat. Fabiana Cozza, Pastor Henrique Vieira & Pastoras do Ros√°rio)",53,355866,2019-10-30,"['Emicida', 'Fabiana Cozza', 'Pastor Henrique Vieira', 'Pastoras do Ros√°rio']"
+1,AmarElo,album,7MK6sYlWniVj8D1mrAAIwb,2,A Ordem Natural das Coisas (feat. Mc Tha),52,235866,2019-10-30,"['Emicida', 'Mc Tha']"
+2,AmarElo,album,78m3BiWZ2dLGzElYwrIfFD,3,Pequenas Alegrias da Vida Adulta (feat. Marcos Valle e Thiago Ventura),55,292013,2019-10-30,"['Emicida', 'Marcos Valle', 'Thiago Ventura']"
+3,AmarElo,album,4yEBOuDHhrFeGXyXNJ3C4y,4,Quem Tem Um Amigo (Tem Tudo) (feat. Zeca Pagodinho & Tokyo Ska Paradise Orchestra),50,249000,2019-10-30,"['Emicida', 'Zeca Pagodinho', 'Tokyo Ska Paradise Orchestra']"
+4,AmarElo,album,5mvd9zBoRstEcAJC2VwEOi,5,Paisagem,48,189680,2019-10-30,['Emicida']
+5,AmarElo,album,3aXbjjFVHC86pSZey62vbS,6,"Canan√©ia, Iguape e Ilha Comprida",48,335600,2019-10-30,['Emicida']
+6,AmarElo,album,6s41mmffsLaUXVkk8wzo2W,7,9nha (feat. Drik Barbosa),47,177480,2019-10-30,"['Emicida', 'Drik Barbosa']"
+7,AmarElo,album,0lllhIvFD2afwVh1nU1WLU,8,Ism√°lia (feat. Larissa Luz & Fernanda Montenegro),48,357760,2019-10-30,"['Emicida', 'Larissa Luz', 'Fernanda Montenegro']"
+8,AmarElo,album,2iCQmixyFnDaOSvs0Fszr7,9,"Emin√™ncia Parda (feat. Dona Onete, J√© Santiago & Papillon)",47,244186,2019-10-30,"['Emicida', 'Dona Onete', 'J√© Santiago', 'Papillon']"
+9,AmarElo,album,5p3LIyy38s0QQNoSTwbZXX,10,AmarElo (Sample: Sujeito de Sorte - Belchior),57,320800,2019-10-30,"['Emicida', 'Majur', 'Pabllo Vittar']"
+10,AmarElo,album,6Uwo3QnEz0GJFFIYnQI8ak,11,Libre,42,169706,2019-10-30,"['Emicida', 'Ibeyi']"
+11,10 Anos de Triunfo (Ao Vivo),album,4dnY5nVBGk2qkjmZWS9rgD,1,Bang - Ao Vivo,41,353613,2018-04-21,['Emicida']
+12,10 Anos de Triunfo (Ao Vivo),album,5H3g4QdufKxNZcdqrWR1LF,2,Gueto / Os Mlk √© Liso (feat. Mc Guim√™) - Ao Vivo,40,205200,2018-04-21,"['Emicida', 'MC Guime']"
+13,10 Anos de Triunfo (Ao Vivo),album,53yM8L0FqrQiLQwlSUz6hE,3,I Love Quebrada - Ao Vivo,39,198866,2018-04-21,['Emicida']
+14,10 Anos de Triunfo (Ao Vivo),album,4joANGi3WrseAKoUFU1YDA,4,A Chapa √© Quente (feat. Rael) - Ao Vivo,42,248866,2018-04-21,"['Emicida', 'Rael']"
+15,10 Anos de Triunfo (Ao Vivo),album,5PfR5Cm2WcxZMCEej8Muo8,5,A Cada Vento (feat. Rael) - Ao Vivo,47,312680,2018-04-21,"['Emicida', 'Rael']"
+16,10 Anos de Triunfo (Ao Vivo),album,5hNjHU5ZE4m0ykAEYLYsQH,6,O√°sis (feat. Rael) - Ao Vivo,45,234840,2018-04-21,"['Emicida', 'Rael']"
+17,10 Anos de Triunfo (Ao Vivo),album,2fvgJaMdvBFm4VHbUIJRGT,7,Alma G√™mea - Ao Vivo,44,242506,2018-04-21,['Emicida']
+18,10 Anos de Triunfo (Ao Vivo),album,1jKMNPNEgzOfGuq2Ft2tJU,8,Madagascar - Ao Vivo,42,239106,2018-04-21,['Emicida']
+19,10 Anos de Triunfo (Ao Vivo),album,3Qo3qPJM8aGCRVTiLvzsuI,9,Baiana (feat. Caetano Veloso) - Ao Vivo,38,253853,2018-04-21,"['Emicida', 'Caetano Veloso']"
+20,10 Anos de Triunfo (Ao Vivo),album,5RwRKGihLcVEYAVBiFWgaq,10,Haiti (feat. Caetano Veloso) - Ao Vivo,39,257613,2018-04-21,"['Emicida', 'Caetano Veloso']"
+21,10 Anos de Triunfo (Ao Vivo),album,33w019E0g0aFp2j4i9WR9R,11,M√£e - Ao Vivo,43,297693,2018-04-21,['Emicida']
+22,10 Anos de Triunfo (Ao Vivo),album,6n1kLEtsPlekRVg6UiGXop,12,Hoje Cedo (feat. Pitty) - Ao Vivo,44,342000,2018-04-21,"['Emicida', 'Pitty']"
+23,10 Anos de Triunfo (Ao Vivo),album,7jCJhnhdNwQcQB70VqbXB9,13,Como Tudo Deve Ser - Ao Vivo,41,175880,2018-04-21,['Emicida']
+24,10 Anos de Triunfo (Ao Vivo),album,1LkHhH4LPjS6WReIqKeJc0,14,Chapa - Ao Vivo,40,282106,2018-04-21,['Emicida']
+25,10 Anos de Triunfo (Ao Vivo),album,4QzprorHgMNDb7DwnHSp0K,15,Passarinhos (feat. Vanessa Da Mata) - Ao Vivo,41,222466,2018-04-21,"['Emicida', 'Vanessa Da Mata']"
+26,10 Anos de Triunfo (Ao Vivo),album,43P9lxj5SPLTgBWAb9eiD4,16,Hino Vira-Lata (feat. Prettos) - Ao Vivo,37,237133,2018-04-21,"['Emicida', 'Prettos']"
+27,10 Anos de Triunfo (Ao Vivo),album,6JFWIGQuGrtVsYtIT1CPuU,17,Mufete - Ao Vivo,37,302866,2018-04-21,['Emicida']
+28,10 Anos de Triunfo (Ao Vivo),album,6EGdi8mN7xNXKqjonxloqe,18,Todos os Olhos em N√≥iz - Ao Vivo,42,285160,2018-04-21,"['Emicida', 'Karol Conk√°']"
+29,10 Anos de Triunfo (Ao Vivo),album,1YyrCYFzq2cqG6Rfggqqda,19,Ooorra - Ao Vivo,46,284693,2018-04-21,['Emicida']
+30,10 Anos de Triunfo (Ao Vivo),album,5Gay4YpzG895E2JDqi2L9A,20,Boa Esperan√ßa (feat. Jota Ghetto) - Ao Vivo,38,199706,2018-04-21,"['Emicida', 'Jota Ghetto']"
+31,10 Anos de Triunfo (Ao Vivo),album,3HhYkPLqvHrLdfN7Co6MSf,21,"Zica, Vai L√° (feat. Fi√≥ti) - Ao Vivo",39,247133,2018-04-21,"['Emicida', 'Fi√≥ti']"
+32,10 Anos de Triunfo (Ao Vivo),album,0FzIvs8tg8uoQhl8zz6zgK,22,N√≥iz - Ao Vivo,38,139466,2018-04-21,['Emicida']
+33,10 Anos de Triunfo (Ao Vivo),album,3AKQgmQ25qEEhHMJAsexjN,23,Ubuntu Fristaili - Ao Vivo,37,267400,2018-04-21,['Emicida']
+34,10 Anos de Triunfo (Ao Vivo),album,6AI7u64to3bm9Iga4t2TmX,24,"Mandume (feat. Drik Barbosa, Raph√£o Alaafin, Muzzike, Amiri, Coruja BC1, Rico Dalasam & Rashid) - Ao Vivo",37,647666,2018-04-21,"['Emicida', 'Drik Barbosa', 'Raph√£o Alaafin', 'Muzzike', 'Amiri', 'Coruja Bc1', 'Rico Dalasam', 'Rashid']"
+35,10 Anos de Triunfo (Ao Vivo),album,1gHFcFkvcdgUreyZYxXSKP,25,Rinha - Ao Vivo,37,131920,2018-04-21,['Emicida']
+36,10 Anos de Triunfo (Ao Vivo),album,2q8HdxqpSVrH4sQK3FYCT0,26,Levanta e Anda (feat. Rael) - Ao Vivo,43,192253,2018-04-21,"['Emicida', 'Rael']"
+37,10 Anos de Triunfo (Ao Vivo),album,5bNj15MKnbPImzXXYmEqEG,27,Triunfo - Ao Vivo,40,259360,2018-04-21,['Emicida']
+38,"Sobre Crian√ßas, Quadris, Pesadelos e Li√ß√µes de Casa...",album,3z32Uk7vU6GWjpALDkV3Vv,1,M√£e,45,298226,2015-08-07,"['Emicida', 'Dona Jacira', 'Anna Tr√©a']"
+39,"Sobre Crian√ßas, Quadris, Pesadelos e Li√ß√µes de Casa...",album,4jII68ZqfGu22k5wCxbxFu,2,8,37,209453,2015-08-07,['Emicida']
+40,"Sobre Crian√ßas, Quadris, Pesadelos e Li√ß√µes de Casa...",album,4icFcHyZjwzHhTuEcDvEkC,3,Casa,40,241120,2015-08-07,['Emicida']
+41,"Sobre Crian√ßas, Quadris, Pesadelos e Li√ß√µes de Casa...",album,3lDFLt1aUxiGhDo168opkA,4,Amoras,36,56932,2015-08-07,['Emicida']
+42,"Sobre Crian√ßas, Quadris, Pesadelos e Li√ß√µes de Casa...",album,5jMXOj3VZCe9j4Woxx5Px5,5,Mufete,34,238560,2015-08-07,['Emicida']
+43,"Sobre Crian√ßas, Quadris, Pesadelos e Li√ß√µes de Casa...",album,14SO7JAN6L7Mk1ZUmabJaI,6,Baiana,53,233320,2015-08-07,"['Emicida', 'Caetano Veloso']"
+44,"Sobre Crian√ßas, Quadris, Pesadelos e Li√ß√µes de Casa...",album,0gGjX0aUg7OaUSAhi1CmDk,7,Passarinhos,60,221626,2015-08-07,"['Emicida', 'Vanessa Da Mata']"
+45,"Sobre Crian√ßas, Quadris, Pesadelos e Li√ß√µes de Casa...",album,55F7SmmSkCKveb0Hy6d4yV,8,Sodade,29,70626,2015-08-07,"['Emicida', 'Neusa Semedo']"
+46,"Sobre Crian√ßas, Quadris, Pesadelos e Li√ß√µes de Casa...",album,7wlJeLu1laRNNXwwxLodX0,9,Chapa,36,278986,2015-08-07,"['Emicida', 'Batucaderas do Terreiro dos Org√£os']"
+47,"Sobre Crian√ßas, Quadris, Pesadelos e Li√ß√µes de Casa...",album,2v3FdNAsIe9rh62DOb4ZIz,10,Boa Esperan√ßa,41,182880,2015-08-07,"['Emicida', 'J. Ghetto']"
+48,"Sobre Crian√ßas, Quadris, Pesadelos e Li√ß√µes de Casa...",album,21lnL9CbwOOdA4LIQpYRKo,11,Trabalhadores do Brasil,29,82693,2015-08-07,"['Emicida', 'Marcelino Freire']"
+49,"Sobre Crian√ßas, Quadris, Pesadelos e Li√ß√µes de Casa...",album,7JEFQNPdF5yUePOuTAG5fs,12,Mandume,43,495600,2015-08-07,"['Emicida', 'Drik Barbosa', 'Amiri', 'Rico Dalasam', 'Muzzike', 'Raph√£o Alaafin']"
+50,"Sobre Crian√ßas, Quadris, Pesadelos e Li√ß√µes de Casa...",album,0FAisOr5R8iaelTo9j6nQ4,13,Madagascar,47,232733,2015-08-07,['Emicida']
+51,"Sobre Crian√ßas, Quadris, Pesadelos e Li√ß√µes de Casa...",album,70RuiIXC1sSc5NzXDCEEhP,14,Salve Black (Estilo Livre),35,283062,2015-08-07,['Emicida']
+52,O Glorioso Retorno de Quem Nunca Esteve Aqui,album,3JmHWXE5VeUi0Uhpxbs9v6,1,Milion√°rio do Sonho,1,50066,2013-08-21,"['Emicida', 'Elisa Lucinda']"
+53,O Glorioso Retorno de Quem Nunca Esteve Aqui,album,2YEBWxw7dXdmYFM4VqR3p1,2,Levanta e Anda,4,150320,2013-08-21,"['Emicida', 'Rael']"
+54,O Glorioso Retorno de Quem Nunca Esteve Aqui,album,7zvTUP7AJlZWyJ1S6rYOwP,3,N√≥iz,25,303226,2013-08-21,['Emicida']
+55,O Glorioso Retorno de Quem Nunca Esteve Aqui,album,4rH2Yzww7Sb3L6NF3mMySu,4,Z√≥i√£o,2,232546,2013-08-21,['Emicida']
+56,O Glorioso Retorno de Quem Nunca Esteve Aqui,album,4Qu1lQg9LBnhuI047ODnuU,5,Cris√¢ntemo,2,314440,2013-08-21,"['Emicida', 'Dona Jacira']"
+57,O Glorioso Retorno de Quem Nunca Esteve Aqui,album,2EiJXgUnQ4P1yCOzucaJr4,6,Sol de Giz de Cera,2,138320,2013-08-21,"['Emicida', 'Estela Vergilio', 'Tulipa Ruiz']"
+58,O Glorioso Retorno de Quem Nunca Esteve Aqui,album,4Hb1MqogMXGusJo6RAD2qy,7,Hoje Cedo,5,194080,2013-08-21,"['Emicida', 'Pitty']"
+59,O Glorioso Retorno de Quem Nunca Esteve Aqui,album,6sbS5YK2N0Tg4sYQvIci0Z,8,Trepadeira,3,282800,2013-08-21,"['Emicida', 'Wilson Das Neves']"
+60,O Glorioso Retorno de Quem Nunca Esteve Aqui,album,19eRmnU9m1SWl9c8MBYY5a,9,Bang!,4,290480,2013-08-21,['Emicida']
+61,O Glorioso Retorno de Quem Nunca Esteve Aqui,album,1BwgNjYeQMHNvKe1BkK0tY,10,Gueto,1,184093,2013-08-21,"['Emicida', 'MC Guime']"
+62,O Glorioso Retorno de Quem Nunca Esteve Aqui,album,2484tvE4r41MHm85lq7z9H,11,Hino Vira-Lata,1,192413,2013-08-21,"['Emicida', 'Quinteto em Branco e Preto']"
+63,O Glorioso Retorno de Quem Nunca Esteve Aqui,album,1otDo025Yi7BixVS6BgFf9,12,Alma G√™mea,4,239986,2013-08-21,['Emicida']
+64,O Glorioso Retorno de Quem Nunca Esteve Aqui,album,55HB8Maxa9dkWs9UDxjPRV,13,Samba do Fim do Mundo,2,219200,2013-08-21,"['Emicida', 'Fabiana Cozza', 'Ju√ßara Mar√ßal']"
+65,O Glorioso Retorno de Quem Nunca Esteve Aqui,album,3G3PPoNXTdirajaiIFh11y,14,Ubuntu Fristaili,2,286826,2013-08-21,['Emicida']
+66,Rock In Rio (Ao Vivo),album,21qhVrVh2DHXxYZv0CtDqR,1,Oi Compadre - Ao Vivo,32,246320,2013-08-07,"['Martinho Da Vila', 'Cidade Negra', 'Emicida']"
+67,Rock In Rio (Ao Vivo),album,0zmRdTMzCtNKGncGO7SF6w,2,Pensamento - Ao Vivo,32,141466,2013-08-07,"['Cidade Negra', 'Martinho Da Vila', 'Emicida']"
+68,Rock In Rio (Ao Vivo),album,799nn8g4CxgRKB30WN2kuZ,3,Onde Voc√™ Mora? / Firmamento - Ao Vivo,38,380546,2013-08-07,"['Cidade Negra', 'Martinho Da Vila', 'Emicida']"
+69,Rock In Rio (Ao Vivo),album,0jelsEmdJqRITQRTkTTLQc,4,Semba Dos Ancestrais/ Muadiakime/ Mama Lala - Ao Vivo,33,366400,2013-08-07,"['Martinho Da Vila', 'Cidade Negra', 'Emicida']"
+70,Rock In Rio (Ao Vivo),album,1QcodsyoLPPaRKk9CP8KFZ,5,Quero Ver Quarta-Feira - Ao Vivo,19,294520,2013-08-07,"['Emicida', 'Cidade Negra', 'Martinho da Vida']"
+71,Rock In Rio (Ao Vivo),album,5wW6ZL4fJEScfMVy9foh1v,6,A Estrada - Ao Vivo,29,423253,2013-08-07,"['Cidade Negra', 'Emicida']"
+72,Rock In Rio (Ao Vivo),album,1OiEtwW1HXZ4jEWpfCQ0OF,7,Disritmia - Ao Vivo,20,165733,2013-08-07,['Martinho Da Vila']
+73,Rock In Rio (Ao Vivo),album,2Mw58TmIuTkrwjigF7nDN4,8,O Amor da Gente/ Casa de Bamba - Ao Vivo,17,317746,2013-08-07,"['Martinho Da Vila', 'Emicida']"
+74,Rock In Rio (Ao Vivo),album,0PDXEO9HWZHuqasrIIVFRO,9,A Sombra da Maldade - Ao Vivo,19,251133,2013-08-07,"['Cidade Negra', 'Emicida']"
+75,Rock In Rio (Ao Vivo),album,6TLIt57cUgzDKKTZEzYdlg,10,Viva (Mel√¥ Dos Vileiros) - Ao Vivo,16,206520,2013-08-07,"['Emicida', 'Cidade Negra']"
+76,Rock In Rio (Ao Vivo),album,6EVlrirhIuJd7uMJ0FlbEs,11,O Pequeno Burgu√™s/ Canta Canta Minha Gente - Ao Vivo,32,249373,2013-08-07,"['Martinho Da Vila', 'Cidade Negra', 'Emicida']"
+77,Rock In Rio (Ao Vivo),album,4LBiCyzNWzd8Bawl5hnRsY,12,Madalena do Jucu - Ao Vivo,17,431720,2013-08-07,"['Martinho Da Vila', 'Cidade Negra', 'Emicida']"
+78,Criolo E Emicida Ao Vivo (Live),album,6F4zAdEznwkmn8MHJtcjtT,1,Zica Vai L√° - Live,34,238346,2013-01-01,"['Criolo', 'Emicida']"
+79,Criolo E Emicida Ao Vivo (Live),album,5UmdgDfLHZO3ceGp6qp7yy,2,Dedo Na Ferida - Live,33,226160,2013-01-01,"['Emicida', 'Criolo']"
+80,Criolo E Emicida Ao Vivo (Live),album,09sMZakpoYDwZIdqgg9YKS,3,Rua Augusta - Live,36,177560,2013-01-01,"['Emicida', 'Criolo']"
+81,Criolo E Emicida Ao Vivo (Live),album,5K0z3idLxEFY0tv82NeMPe,4,Mari√¥ - Live,33,267480,2013-01-01,['Criolo']
+82,Criolo E Emicida Ao Vivo (Live),album,7bLMLwx6gJrCXoppD2YqOu,5,Subirusdoistiozin - Live,34,211280,2013-01-01,"['Criolo', 'Emicida']"
+83,Criolo E Emicida Ao Vivo (Live),album,2SPPB8Wi85U3cn6ptXLsR4,6,Demor√¥ - Live,32,213773,2013-01-01,"['Criolo', 'Emicida']"
+84,Criolo E Emicida Ao Vivo (Live),album,0s76fxVvT3GOz0sEU64v4j,7,Viva (Mel√¥ Dos Vileiros) - Live,31,213960,2013-01-01,"['Criolo', 'Emicida']"
+85,Criolo E Emicida Ao Vivo (Live),album,4dr8LN0s4WhnLLTzfsZkj5,8,S√≥ Mais Uma Noite - Live,33,188666,2013-01-01,"['Criolo', 'Emicida', 'Evandro Fi√≥ti']"
+86,Criolo E Emicida Ao Vivo (Live),album,1Yxukx85EzhKgZpzbNywQv,9,N√£o Existe Amor Em SP - Live,34,392480,2013-01-01,"['Criolo', 'Emicida']"
+87,Criolo E Emicida Ao Vivo (Live),album,6KzAGApzyPBttDCH9rKUNv,10,Linha De Frente - Live,34,240373,2013-01-01,"['Criolo', 'Emicida', 'Rodrigo Campos']"
+88,Criolo E Emicida Ao Vivo (Live),album,2e1FJPgVRQZFT53QKUR7BD,11,A Cada Vento - Live,35,243373,2013-01-01,"['Criolo', 'Emicida']"
+89,Criolo E Emicida Ao Vivo (Live),album,1FsemVMaaJRX9YKHBT5kAs,12,Outras Palavras - Live,31,294813,2013-01-01,"['Emicida', 'Criolo']"
+90,Criolo E Emicida Ao Vivo (Live),album,1b0rnT35mqbls6Mh1EwVwE,13,Lion Man - Live,31,247680,2013-01-01,"['Criolo', 'Emicida']"
+91,Criolo E Emicida Ao Vivo (Live),album,0UZ3juSCFsN6lINBadUZNZ,14,Grajauex - Live,32,191453,2013-01-01,"['Criolo', 'Emicida']"
+92,Criolo E Emicida Ao Vivo (Live),album,19Oj8jiVAn3qRr0DhlLU1j,15,Triunfo - Live,36,273426,2013-01-01,"['Criolo', 'Emicida']"
+93,Criolo E Emicida Ao Vivo (Live),album,0ITzKSRykU81569IrYUhVC,16,"Cap√≠tulo 4, Vers√≠culo 3 - Live",34,127053,2013-01-01,"['Criolo', 'Emicida', 'Mano Brown']"
+94,Criolo E Emicida Ao Vivo (Live),album,3KYbhVPCxYHIeZg8Zy07ay,17,Vida Loka I - Live,39,271840,2013-01-01,"['Criolo', 'Emicida', 'Mano Brown']"
+95,Criolo E Emicida Ao Vivo (Live),album,3xfUu8alkwuMg8UBht9TtW,18,Bogot√° - Live,31,369773,2013-01-01,"['Criolo', 'Emicida']"
+96,Criolo E Emicida Ao Vivo (Live),album,6F4zAdEznwkmn8MHJtcjtT,1,Zica Vai L√° - Live,34,238346,2013-01-01,"['Criolo', 'Emicida']"
+97,Criolo E Emicida Ao Vivo (Live),album,5UmdgDfLHZO3ceGp6qp7yy,2,Dedo Na Ferida - Live,33,226160,2013-01-01,"['Emicida', 'Criolo']"
+98,Criolo E Emicida Ao Vivo (Live),album,09sMZakpoYDwZIdqgg9YKS,3,Rua Augusta - Live,36,177560,2013-01-01,"['Emicida', 'Criolo']"
+99,Criolo E Emicida Ao Vivo (Live),album,5K0z3idLxEFY0tv82NeMPe,4,Mari√¥ - Live,33,267480,2013-01-01,['Criolo']
+100,Criolo E Emicida Ao Vivo (Live),album,7bLMLwx6gJrCXoppD2YqOu,5,Subirusdoistiozin - Live,34,211280,2013-01-01,"['Criolo', 'Emicida']"
+101,Criolo E Emicida Ao Vivo (Live),album,2SPPB8Wi85U3cn6ptXLsR4,6,Demor√¥ - Live,32,213773,2013-01-01,"['Criolo', 'Emicida']"
+102,Criolo E Emicida Ao Vivo (Live),album,0s76fxVvT3GOz0sEU64v4j,7,Viva (Mel√¥ Dos Vileiros) - Live,31,213960,2013-01-01,"['Criolo', 'Emicida']"
+103,Criolo E Emicida Ao Vivo (Live),album,4dr8LN0s4WhnLLTzfsZkj5,8,S√≥ Mais Uma Noite - Live,33,188666,2013-01-01,"['Criolo', 'Emicida', 'Evandro Fi√≥ti']"
+104,Criolo E Emicida Ao Vivo (Live),album,1Yxukx85EzhKgZpzbNywQv,9,N√£o Existe Amor Em SP - Live,34,392480,2013-01-01,"['Criolo', 'Emicida']"
+105,Criolo E Emicida Ao Vivo (Live),album,6KzAGApzyPBttDCH9rKUNv,10,Linha De Frente - Live,34,240373,2013-01-01,"['Criolo', 'Emicida', 'Rodrigo Campos']"
+106,Criolo E Emicida Ao Vivo (Live),album,2e1FJPgVRQZFT53QKUR7BD,11,A Cada Vento - Live,35,243373,2013-01-01,"['Criolo', 'Emicida']"
+107,Criolo E Emicida Ao Vivo (Live),album,1FsemVMaaJRX9YKHBT5kAs,12,Outras Palavras - Live,31,294813,2013-01-01,"['Emicida', 'Criolo']"
+108,Criolo E Emicida Ao Vivo (Live),album,1b0rnT35mqbls6Mh1EwVwE,13,Lion Man - Live,31,247680,2013-01-01,"['Criolo', 'Emicida']"
+109,Criolo E Emicida Ao Vivo (Live),album,0UZ3juSCFsN6lINBadUZNZ,14,Grajauex - Live,32,191453,2013-01-01,"['Criolo', 'Emicida']"
+110,Criolo E Emicida Ao Vivo (Live),album,19Oj8jiVAn3qRr0DhlLU1j,15,Triunfo - Live,36,273426,2013-01-01,"['Criolo', 'Emicida']"
+111,Criolo E Emicida Ao Vivo (Live),album,0ITzKSRykU81569IrYUhVC,16,"Cap√≠tulo 4, Vers√≠culo 3 - Live",34,127053,2013-01-01,"['Criolo', 'Emicida', 'Mano Brown']"
+112,Criolo E Emicida Ao Vivo (Live),album,3KYbhVPCxYHIeZg8Zy07ay,17,Vida Loka I - Live,39,271840,2013-01-01,"['Criolo', 'Emicida', 'Mano Brown']"
+113,Criolo E Emicida Ao Vivo (Live),album,3xfUu8alkwuMg8UBht9TtW,18,Bogot√° - Live,31,369773,2013-01-01,"['Criolo', 'Emicida']"
+114,Doozicabraba e a Revolu√ß√£o Silenciosa,album,0pmExfJ9NhCdFgAvdhjNRl,1,Intro (Shiiiiu!),19,136493,2011-12-20,['Emicida']
+115,Doozicabraba e a Revolu√ß√£o Silenciosa,album,3YEu2zvGsP1j30P7MdM8Uk,2,Licen√ßa Aqui,28,226440,2011-12-20,"['Emicida', 'Rael', 'Fi√≥ti']"
+116,Doozicabraba e a Revolu√ß√£o Silenciosa,album,0jy5rowvJT5t6GQcyU7Md1,3,Cacariac√¥,25,156400,2011-12-20,"['Emicida', 'Fabiana Cozza']"
+117,Doozicabraba e a Revolu√ß√£o Silenciosa,album,3njVe1xxVf8LLzIbHYgUbJ,4,Viva! (Melo dos Vileiro),35,195613,2011-12-20,"['Emicida', 'Rael']"
+118,Doozicabraba e a Revolu√ß√£o Silenciosa,album,3tJPVeNIvz1AWtQZXYZagx,5,Num √â S√≥ Ver,39,258666,2011-12-20,"['Emicida', 'Rael']"
+119,Doozicabraba e a Revolu√ß√£o Silenciosa,album,0Zli2GQT2t2Cdn5Y5FxMN2,6,"Zica, Vai L√°...",34,242026,2011-12-20,"['Emicida', 'Fi√≥ti']"
+120,Doozicabraba e a Revolu√ß√£o Silenciosa,album,4d23omGuGadPOnTk8Hay2B,7,Pequenas Empresas,24,240013,2011-12-20,"['Emicida', 'Don Pixote', 'MV Bill']"
+121,Doozicabraba e a Revolu√ß√£o Silenciosa,album,7peVT3FS4rLm0LAFmu6sig,8,1989,23,176146,2011-12-20,['Emicida']
+122,Doozicabraba e a Revolu√ß√£o Silenciosa,album,3k5AG1YfQBJxOMEOYdXa6g,9,Can√ß√£o para Meus Amigos Mortos,23,189733,2011-12-20,"['Emicida', 'Srta. Paola']"
+123,Doozicabraba e a Revolu√ß√£o Silenciosa,album,1qhAtTklCGQEgnU2ivchW4,10,Sorrisos e L√°grimas,33,174040,2011-12-20,"['Emicida', 'Rael']"
+124,Emicidio,album,3dHGvbOKarhoCCnO0agLOU,1,E Agora?,28,200066,2010-09-15,"['Emicida', 'Kaion']"
+125,Emicidio,album,6Lbp3RoCLwdETIRL4LCwDA,2,C√™ L√° Faz Id√©ia?,37,138466,2010-09-15,['Emicida']
+126,Emicidio,album,11EwENgj6ssityd6UW6ZN3,3,Rinha (J√° Ouviu Falar?),29,127000,2010-09-15,['Emicida']
+127,Emicidio,album,1VwvVtK7KGK8f9tC65FOIh,4,Isso N√£o Pode Se Perder,28,230413,2010-09-15,"['Emicida', 'X√™nia Fran√ßa']"
+128,Emicidio,album,4voIFUvBEUtBMVBfxyBWJN,5,Santo Amaro da Purifica√ß√£o,27,165146,2010-09-15,"['Emicida', 'Curumim']"
+129,Emicidio,album,4g5TnkdXNC2blq6pBS22Ig,6,Ent√£o Toma,34,166586,2010-09-15,['Emicida']
+130,Emicidio,album,7ud6onCRZu5rUb0MUZoFhX,7,Emicidio,29,204506,2010-09-15,['Emicida']
+131,Emicidio,album,66nm77ff6ft4sZ7bG5RtDc,8,Santa Cruz,26,223026,2010-09-15,['Emicida']
+132,Emicidio,album,0TAjOgOFn8acTTjswI27WI,9,Velhos Amigos,30,223186,2010-09-15,['Emicida']
+133,Emicidio,album,4vHOJK3A4vxlMjVEBdL8Xs,10,Rua Augusta,41,153053,2010-09-15,['Emicida']
+134,Emicidio,album,7hOPOvcVUjUtFYbHWuoZoh,11,I Love Quebrada,31,216600,2010-09-15,['Emicida']
+135,Emicidio,album,5yqbISO0lUFwY3wdrLgiR0,12,Eu Gosto Dela,51,197746,2010-09-15,"['Emicida', 'Cohen']"
+136,Emicidio,album,67pNalHivsFuW2Kcd2vS7A,13,S√≥ Mais uma Noite,30,189520,2010-09-15,"['Emicida', 'Fi√≥ti']"
+137,Emicidio,album,6WEnwoDXLxbPKqSzNGpfEI,14,De Onde C√™ Vem?!,26,262333,2010-09-15,"['Emicida', 'Kamau']"
+138,Emicidio,album,1oO9SDF8DP30r0opnyesYW,15,Um Final de Semana,25,172733,2010-09-15,"['Emicida', 'Fi√≥ti']"
+139,Emicidio,album,6c6whZDeo8lbZrXahHjkVO,16,Novo Nego V√©io,23,161600,2010-09-15,['Emicida']
+140,Emicidio,album,2LAhOdcfPJUgWqwm6zmLG6,17,Avua Besouro,25,229613,2010-09-15,['Emicida']
+141,Emicidio,album,25XUxLporfgzl2rf2mtgmj,18,Beira de Piscina,43,228786,2010-09-15,"['Emicida', 'Rael', 'X√™nia Fran√ßa']"
+142,Pra Quem J√° Mordeu um Cachorro por Comida At√© Que Eu Cheguei Longe,album,2QlM7fOgPNyVKH7YA6UYJV,1,Intro (EÃÅ NecessaÃÅrio Voltar ao ComecÃßo),30,337773,2009-05-01,['Emicida']
+143,Pra Quem J√° Mordeu um Cachorro por Comida At√© Que Eu Cheguei Longe,album,7p7gRmIidSlIYrGNaaLYDK,2,E.M.I.C.I.D.A (Adoooro),31,204840,2009-05-01,['Emicida']
+144,Pra Quem J√° Mordeu um Cachorro por Comida At√© Que Eu Cheguei Longe,album,1dlwq2SjJVpp1KRlzzeXXg,3,Sozim,32,194240,2009-05-01,['Emicida']
+145,Pra Quem J√° Mordeu um Cachorro por Comida At√© Que Eu Cheguei Longe,album,2z39qAqEgZUC7vJUnatv5Y,4,Rotina,31,170586,2009-05-01,['Emicida']
+146,Pra Quem J√° Mordeu um Cachorro por Comida At√© Que Eu Cheguei Longe,album,1c8u8eAFIBHzox24Q9MMRC,5,Pra Mim (Isso √â Viver),30,151173,2009-05-01,['Emicida']
+147,Pra Quem J√° Mordeu um Cachorro por Comida At√© Que Eu Cheguei Longe,album,0aK5pOk6Xo2hB2Mto0vSBa,6,Ainda Ontem,32,217346,2009-05-01,['Emicida']
+148,Pra Quem J√° Mordeu um Cachorro por Comida At√© Que Eu Cheguei Longe,album,3KbDMWpZCNscdAq7ea2iNW,7,Pra NaÃÉo Ter Tempo Ruim,30,197746,2009-05-01,['Emicida']
+149,Pra Quem J√° Mordeu um Cachorro por Comida At√© Que Eu Cheguei Longe,album,0zUF40Gv49uGEhQnf5vBRu,8,SoÃÅ Isso,33,231533,2009-05-01,['Emicida']
+150,Pra Quem J√° Mordeu um Cachorro por Comida At√© Que Eu Cheguei Longe,album,6s7zBFmqbgOqixjB8WTHoE,9,Vou Busca Minha FuloÃÇ,29,83800,2009-05-01,['Emicida']
+151,Pra Quem J√° Mordeu um Cachorro por Comida At√© Que Eu Cheguei Longe,album,7invwIucvRT7MQx2KlvPUg,10,Ela Diz,35,209973,2009-05-01,['Emicida']
+152,Pra Quem J√° Mordeu um Cachorro por Comida At√© Que Eu Cheguei Longe,album,60U9NrQvXR3qD3pywGznBn,11,"Por Deus, por Favor",28,181653,2009-05-01,['Emicida']
+153,Pra Quem J√° Mordeu um Cachorro por Comida At√© Que Eu Cheguei Longe,album,1Mu24wXS9kB5bxTHeV0OhG,12,Preciso (Mel√¥ do Mundiko),27,214920,2009-05-01,['Emicida']
+154,Pra Quem J√° Mordeu um Cachorro por Comida At√© Que Eu Cheguei Longe,album,5EqGjbo9XYrgIV7Kn0Lx8L,13,A Cada Vento,33,207546,2009-05-01,['Emicida']
+155,Pra Quem J√° Mordeu um Cachorro por Comida At√© Que Eu Cheguei Longe,album,6uottiJzSnnRsxwoavPg6O,14,Sei L√°,34,226066,2009-05-01,['Emicida']
+156,Pra Quem J√° Mordeu um Cachorro por Comida At√© Que Eu Cheguei Longe,album,7i9MpNHuZWqpCSbg6uHBTm,15,CidadaÃÉo,28,85920,2009-05-01,['Emicida']
+157,Pra Quem J√° Mordeu um Cachorro por Comida At√© Que Eu Cheguei Longe,album,3PNPGfkDqzjE8vykLzwJDk,16,Soldado Sem Bandeira,28,209706,2009-05-01,['Emicida']
+158,Pra Quem J√° Mordeu um Cachorro por Comida At√© Que Eu Cheguei Longe,album,047meJmEnLUrFVnz7DTuDx,17,Vai Ser Rimando,28,203306,2009-05-01,['Emicida']
+159,Pra Quem J√° Mordeu um Cachorro por Comida At√© Que Eu Cheguei Longe,album,12Kj6lgdFeVIcv1CRMc7Nv,18,"Um, Dois, Tr√™s, Quatro",25,40266,2009-05-01,['Emicida']
+160,Pra Quem J√° Mordeu um Cachorro por Comida At√© Que Eu Cheguei Longe,album,2U9j25wlLoCCekKxulgpty,19,Fica Mais um Pouco Amor,29,146906,2009-05-01,['Emicida']
+161,Pra Quem J√° Mordeu um Cachorro por Comida At√© Que Eu Cheguei Longe,album,1JGmmlyyoClHQsGsQQHtsW,20,Outras Palavras,29,221266,2009-05-01,['Emicida']
+162,Pra Quem J√° Mordeu um Cachorro por Comida At√© Que Eu Cheguei Longe,album,4yN4ZPyoC6xAGMV5kL1zQ6,21,Hey Rap!,27,127453,2009-05-01,['Emicida']
+163,Pra Quem J√° Mordeu um Cachorro por Comida At√© Que Eu Cheguei Longe,album,669EOlOmIu0bLlJ9EKEFfO,22,Essa √â Pra Voc√™ Primo,27,227826,2009-05-01,['Emicida']
+164,Pra Quem J√° Mordeu um Cachorro por Comida At√© Que Eu Cheguei Longe,album,3XELYgcY0b9mGsJE28r4Fh,23,Triunfo (A Rua √â N√≥iz),47,209373,2009-05-01,['Emicida']
+165,Pra Quem J√° Mordeu um Cachorro por Comida At√© Que Eu Cheguei Longe,album,2tcNin6noNygyGiLocD07c,24,Eu T√¥ Bem,31,198493,2009-05-01,['Emicida']
+166,Pra Quem J√° Mordeu um Cachorro por Comida At√© Que Eu Cheguei Longe,album,1ZN5EnxScmBM9stqKkXxPM,25,Ooorra,33,239653,2009-05-01,['Emicida']
+167,Mulheres N√£o T√™m Que Chorar,single,74uFjCGzZs9Pw6P8Pbv2WV,1,Mulheres N√£o T√™m Que Chorar,58,262426,2020-10-30,"['Ivete Sangalo', 'Emicida']"
+168,"Trevo, Figuinha e Suor na Camisa",single,5XlSsxpTi0usJnQSUwBORk,1,"Trevo, Figuinha e Suor na Camisa",53,170453,2020-09-25,"['Emicida', 'Ivete Sangalo']"
+169,Sementes,single,3u5gwRpfb4BCjqvmi7SuT8,1,Sementes,42,236906,2020-06-09,"['Emicida', 'Drik Barbosa']"
+170,Quem Tem Um Amigo (Tem Tudo),single,3t7dahQw060tKGj9PsXvH6,1,Quem Tem Um Amigo (Tem Tudo) (feat. Zeca Pagodinho & Tokyo Ska Paradise Orchestra),33,249000,2020-05-07,"['Emicida', 'Zeca Pagodinho', 'Tokyo Ska Paradise Orchestra']"
+171,Quem Tem Um Amigo (Tem Tudo),single,0gTfC9HQGy3sjdZEO2A5EE,2,"Who Has a Friend, Has Everything (feat. Tokyo Ska Paradise Orchestra & Denise D'Paula) - Bonus Track",36,221693,2020-05-07,"['Emicida', 'Tokyo Ska Paradise Orchestra', ""Denise D'Paula""]"
+172,Quem Tem Um Amigo (Tem Tudo),single,08WrWXRoXim0i1RkSVlpJ3,3,"Quem Tem Um Amigo (Tem Tudo) (Remix) (feat. Zeca Pagodinho, Tokyo Ska Paradise Orchestra & Rashid)",49,246533,2020-05-07,"['Emicida', 'Zeca Pagodinho', 'Tokyo Ska Paradise Orchestra', 'Rashid']"
+173,Passarinhos (Remix),single,0gg3CdFwZ6pw2YAqoIq5lN,1,Passarinhos (Remix),50,275706,2020-03-26,"['Emicida', 'Moral Distraida', 'Marcio Arantes']"
+174,Libre,single,3DfxT3t8QHnPysZ6yxFKI7,1,Libre,37,169706,2019-09-19,"['Emicida', 'Ibeyi']"
+175,Hacia El Amor (Ac√∫stico),single,1a8JXGNz4a9gmiAdEKUpks,1,Hacia El Amor - Ac√∫stico,41,220933,2019-08-27,"['Emicida', 'Ibeyi']"
+176,AmarElo (Sample: Sujeito de Sorte - Belchior),single,1BeAxDuc9FbQNWvXWlO66W,1,AmarElo (Sample: Sujeito de Sorte - Belchior),54,321493,2019-06-25,"['Emicida', 'Majur', 'Pabllo Vittar']"
+177,Final dos Tempos,single,1LHJFQvjlsbNMdaUfATEDi,1,Final dos Tempos,32,176973,2019-05-29,['Emicida']
+178,Mil Coisas,single,0c68eyAdaqYMdyVBjygaOK,1,Mil Coisas,52,202800,2019-05-27,"['Emicida', 'Drik Barbosa']"
+179,"Emin√™ncia Parda (feat. Dona Onete, J√© Santiago & Papillon)",single,746qyPtzUs4gGEKkuwwSlk,1,"Emin√™ncia Parda (feat. Dona Onete, J√© Santiago & Papillon)",43,244946,2019-05-09,"['Emicida', 'Dona Onete', 'J√© Santiago', 'Papillon']"
+180,Vital,single,1fxe4QTVcP32FxjTPDoiZl,1,Vital,37,191560,2019-04-16,['Emicida']
+181,Rap do Motoboy,single,5022KgQuD9TrRgafcwsYp9,1,Rap do Motoboy,36,216906,2018-10-16,"['Emicida', 'Fi√≥ti']"
+182,Levanta e Anda,single,5fKqHamS4h3bZk6lwvoSxD,1,Levanta e Anda,43,173812,2018-10-05,"['Emicida', 'Barbatuques']"
+183,In√°cio da Catingueira,single,0kvRmw3KwsNpkqu0Idfxrc,1,In√°cio da Catingueira,40,235413,2018-09-18,['Emicida']
+184,Hacia El Amor,single,4SU3ZAVGAhdGtSXhbMGfd8,1,Hacia El Amor,33,217346,2018-06-08,"['Emicida', 'Ibeyi']"
+185,Triunfo (Ao Vivo),single,27sRlAw1fQVVWV08tSlxUn,1,Triunfo - Ao Vivo,17,259279,2018-04-06,['Emicida']
+186,Hoje Cedo (feat. Pitty) [Ao Vivo],single,6hjWAmXyRzt27yO4ItBgf6,1,Hoje Cedo (feat. Pitty) - Ao Vivo,28,342000,2018-03-23,"['Emicida', 'Pitty']"
+187,Como Tudo Deve Ser (Ao Vivo),single,3SjfnU03zLrZbrTgSKfiSt,1,Como Tudo Deve Ser - Ao Vivo,20,177290,2018-03-16,['Emicida']
+188,Levanta e Anda (feat. Rael) [Ao Vivo],single,0BjPi6q4lvoo6MxHlMyzYU,1,Levanta e Anda (feat. Rael) - Ao Vivo,15,186146,2018-02-23,"['Emicida', 'Rael']"
+189,Pantera Negra,single,3oA8ovg8QzMjPTwG7kezA3,1,Pantera Negra,47,199613,2018-02-02,['Emicida']
+190,O√°sis,single,10pq1eFjs95Kp7aJbUp6FO,1,O√°sis,39,229800,2017-09-12,"['Emicida', 'Miguel']"
+191,A Chapa √© Quente (L√≠ngua Franca),single,1uVOvs9a0rDTll1fuDhO7h,1,A Chapa √© Quente - L√≠ngua Franca,28,244453,2017-04-28,"['Emicida', 'Rael']"
+192,"Yasuke (Bendito, Louvado Seja)",single,7lvGzIPx6hojokn0PlKYMr,1,"Yasuke (Bendito, Louvado Seja)",27,351210,2017-02-03,['Emicida']
+193,Rdio Sessions,single,6D7xE2MBqWKm6wBBVYceEa,1,Levanta e Anda (Rdio Sessions) - Ao Vivo,18,185786,2016-01-01,['Emicida']
+194,Rdio Sessions,single,2Oc2oLhrsqADmYYFos8tPt,2,Passarinhos (Rdio Sessions) (feat. X√™nia Fran√ßa) - Ao Vivo,50,229413,2016-01-01,"['Emicida', 'X√™nia Fran√ßa']"
+195,Rdio Sessions,single,1hMrb30h4rupQDVowEUIuu,3,Mufete (Rdio Sessions) - Ao Vivo,12,232280,2016-01-01,['Emicida']
+196,Rdio Sessions,single,6yu7JweNS9iukYUILzzrY0,4,Triunfo (Rdio Sessions) - Ao Vivo,32,308906,2016-01-01,['Emicida']
+197,Rdio Sessions,single,79R3QY7PcTUpeRZQRyF567,5,Boa Esperan√ßa (Rdio Sessions) (feat. Jota Ghetto) - Ao Vivo,11,186573,2016-01-01,"['Emicida', 'Jota Ghetto']"
+198,Bonjour,single,1d5Hpa1FxneKB3DIgH6OZc,1,Bonjour,33,212362,2015-02-23,"['Emicida', 'F√©f√©']"
+199,Minha Vida (Remix),single,5NCCdivQoIpi1QZiDPmG57,1,Minha Vida - Remix,25,371905,2014-11-07,"['Emicida', 'Lakers Ep√°']"
+200,Cris√¢ntemo,single,0aLHKvkW5uSHYkZtJL6k4C,1,Cris√¢ntemo,10,314440,2014-03-03,"['Emicida', 'Dona Jacira']"
+201,"Papel, Caneta e Cora√ß√£o",single,4k9Ik0Ttw0FVQDsSNNyItA,1,"Papel, Caneta e Cora√ß√£o",32,171306,2013-12-29,"['Emicida', 'Coyote Beatz']"
+202,"Aos Olhos de uma Crian√ßa (Tema do Filme ""O Menino e o Mundo"")",single,0imiKTAc5BffkEJ3pDkBk0,1,"Aos Olhos de uma Crian√ßa - Tema do Filme ""O Menino e o Mundo""",31,208966,2013-11-19,"['Emicida', 'Drik Barbosa']"
+203,Hoje Cedo,single,2g56r0T9P7IOSI1IFNNWKD,1,Hoje Cedo,18,194080,2013-07-30,"['Emicida', 'Pitty']"
+204,Avua Besouro,single,5AEPgvi0qSS91PQtiV2uzZ,1,Avua Besouro,7,229613,2011-12-22,['Emicida']
+205,Quero Ver Quarta-Feira,single,0NIFvEPGkZodCyN48la4Hd,1,Quero Ver Quarta-Feira,15,266053,2011-12-22,"['Emicida', ""Mart'n√°lia""]"
+206,Sua Mina Ouve Meu Rep Tamem,single,2vi1oW1hZexBEhpTxY7oye,1,Intro,14,49000,2010-01-26,['Emicida']
+207,Sua Mina Ouve Meu Rep Tamem,single,6ZEJCYvM9fA4J8caTISj3z,2,Quer Saber?,36,215720,2010-01-26,"['Emicida', 'Fi√≥ti']"
+208,Sua Mina Ouve Meu Rep Tamem,single,6f7Am9gKBzcYq4N1VT2mNs,3,Chega√≠,24,171960,2010-01-26,"['Emicida', 'Fi√≥ti']"
+209,Sua Mina Ouve Meu Rep Tamem,single,1iuUsfIr9AlrG5UFk6DLt2,4,Vacil√£o,27,180546,2010-01-26,['Emicida']
+210,Sua Mina Ouve Meu Rep Tamem,single,3HwQeHdIeBqiMltNdz6Obm,5,Vol√∫pia,27,172666,2010-01-26,"['Emicida', 'X√™nia Fran√ßa']"
+211,Sua Mina Ouve Meu Rep Tamem,single,6VRxAU85cQfxPjVvJQwiGl,6,Num Vejo a Hora,32,196346,2010-01-26,['Emicida']
+212,Triunfo,single,6g6H6yu4ppSf6q6kSu4Kj8,1,Triunfo,15,209373,2009,['Emicida']
